@@ -9,7 +9,7 @@ function App() {
   return (
     <div className='App'>
     <Header />
-    {/*<Sprits />*/}
+    <Sprits />
     <MainPage />
     </div>
 

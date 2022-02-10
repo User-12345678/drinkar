@@ -1,0 +1,38 @@
+.addDrinkForm {
+    display: grid;
+    flex-direction: row;
+    height: 25rem;
+    width: 25rem;
+    background-color: white;
+    text-align: center;
+    justify-content: center;
+    box-shadow: var(--box-shadow);
+    border: 0;
+    border-radius: 3px;
+}
+
+.namn {
+    border: 0;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+.ingridientser {
+    display: flex;
+    border: 0;
+}
+
+.typ {
+    flex: 7;
+    border: 0;
+    border-right: 1px solid black;
+    text-align: center;
+}
+
+.mängd{
+    flex: 1;
+    border: 0;
+    text-align: center;
+}
+
+

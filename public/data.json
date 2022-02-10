@@ -1,0 +1,96 @@
+
+   {
+
+    "drinks": [
+        {
+            "name": "Gin Gin Mule",
+            "img": "../Drink/Gin-Gin-Mule-2-023.jpg",
+            "ingredients": {
+                "Gin": "5cl",
+                "Lime": "2cl",
+                "Ginger Bear": "10cl",
+                "Mynta": "10st"
+            }
+        },
+        {
+            "name": "Gin Basil Smash",
+            "img": "../Drink/Social-Modern-Classic-Gin-Basil-Smash-Cocktail-Recipe.jpg",
+            "ingredients": {
+                "Gin": "5cl",
+                "Citron": "3cl",
+                "Sockerlag": "2cl"
+            }
+        },
+        {
+            "name": "Elder Gin Cocktail",
+            "img": "https://www.thespruceeats.com/thmb/JO6CrWIKlinWjnXV2BTqU_RwX7M=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/EyeCandyCocktail-760048-011-5a2a128753ef4d07b836c4f5ccc9a8ae.jpg",
+            "ingredients": {
+                "Gin": "6cl",
+                "Flädersaft": "2cl",
+                "Citron": "2cl",
+                "Ingefära": "1/2msk",
+                "Mynta": "10st",
+                "Bubbelvatten": "5cl"
+     
+            }
+        },
+        {    "name": "French 75",
+            "img": "../Drink/French-75-cocktails-with-lemons-and-Champagne-in-the-background-featured-1.jpg",
+            "ingredients": {
+                "Gin": "3cl",
+                "Citron": "2cl",
+                "Sockerlag": "2cl",
+                "Champange": "5cl"
+     
+            }
+        },
+        {   "name": "Whisky Sour",
+            "img": "../Drink/whisky-sour.jpg",
+            "ingredients": {
+                "Whiskey": "5cl",
+                "Citron": "3cl",
+                "Sockerlag": "2cl",
+                "Äggvita": "1st"
+             }
+        },
+        {   "name": "Margarita",
+            "img": "../Drink/margarita_0.jpg",
+            "ingredients": {
+                "Tequila": "4cl",
+                "Appelsinlikör": "2cl", 
+                "Lime": "2cl",
+                "Sockerlag": "1cl"
+         }
+        },
+        {   "name": "Malibu Pineapple",
+            "img": "../Drink/download.jpg",
+            "ingredients": {
+                "Malibu": "5cl",
+                "Annanasjuice": "10cl", 
+                "Lime": "2cl",
+                "Sockerlag": "1cl"
+         }
+        },
+        {   "name": "Pornstar Martini",
+            "img": "../Drink/porn-star-martini-720x720-primary-68432cf5f99740c1933dd26175d77cd0.jpg",
+            "ingredients": {
+                "Vaniljvodka": "5cl",
+                "Citron": "3cl",
+                "Sockerlag": "3cl",
+                "Passionsfrukt": "1st",
+                "Champagne": "4cl"
+            }
+        },
+        {   "name": "Espresso Martini",
+            "img": "https://img.koket.se/standard-mega/espresso-martini-david-kringlund.jpg.webp",
+            "ingredients": {
+                "Vodka": "4cl",
+                "Sockerlag": "2cl",
+                "Espresso": "6cl "
+            }
+        }
+    ]
+
+
+}
+

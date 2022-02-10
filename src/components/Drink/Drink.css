@@ -6,6 +6,8 @@
     box-shadow: var(--box-shadow);
     margin-right: 1rem;
     margin-left: 1rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
 }
 
 .drinkName {
@@ -15,7 +17,7 @@
 
 
 img {
-    width: 18rem;
+    width: 20rem;
     height: 15rem;
     border-radius: 5%;
     object-fit: cover;

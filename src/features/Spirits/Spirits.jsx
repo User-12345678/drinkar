@@ -1,4 +1,5 @@
 import React, {useState, useEffect} from 'react'
+import AddDrink from '../addDrink/addDrink';
 import "./Spirits.css"
 
 export default function Sprits() {
@@ -9,7 +10,7 @@ export default function Sprits() {
                 <button>Rom</button>
                 <button>Vodka</button>
                 <button>Whiskey</button>
-                <button>Lägg till drink</button>      
+                <AddDrink />     
         </div>
     )
         

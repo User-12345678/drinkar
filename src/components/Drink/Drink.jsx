@@ -3,7 +3,7 @@ import Ingredients from "../Ingredients/Ingredients"
 import "./Drink.css"
 
 export default function Drink(props) {
-    
+
     const {drink} = props;
 
     return (
