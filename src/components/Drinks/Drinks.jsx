@@ -7,7 +7,7 @@ import Drink from '../Drink/Drink'
 export default function Drinks(){
 
     const dispatch = useDispatch();
-    const drinks1 = useSelector(selectAllDrinks);
+    const drinks = useSelector(selectAllDrinks);
     const isDrinkLoading = useSelector(isLoading);
 
 
@@ -22,7 +22,9 @@ export default function Drinks(){
 
     return (
         <div className='drinks'>
-             
+             {drinks.drinks.map(drink => {
+                 return <Drink drink={drink}/>
+             })}
         </div>
        
     )
