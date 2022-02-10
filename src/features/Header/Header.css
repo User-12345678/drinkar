@@ -3,14 +3,8 @@
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    background-color: aqua;
+    box-shadow: var(--box-shadow);
     width: 98%;
     
-
-}
-
-
-.knapp {
-    position: relative;
 
 }

@@ -1,8 +1,14 @@
 import React, {useState, useEffect} from 'react'
+import Drinks from '../../components/Drinks/Drinks'
+import "./MainPage.css"
+
 
 export default function MainPage(){
 
     return (
-        <p>I am Main Page</p>
+        <div className="mainPage">
+            <Drinks />
+
+        </div>
     )
 }

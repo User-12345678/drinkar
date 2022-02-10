@@ -1,0 +1,15 @@
+.spirits {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin-top: 1rem;
+    background-color: blue;
+}
+
+button {
+    height: 2rem;
+    min-width: 5rem;
+    margin-right: 2rem;
+  }

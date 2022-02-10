@@ -1,0 +1,13 @@
+/*.drinks {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+}*/
+
+.drinks {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 1rem;
+   justify-content: center;
+}

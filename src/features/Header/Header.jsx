@@ -5,12 +5,7 @@ export default function Header() {
 
     return (
         <div className='header'>
-            <h1> DAVIDs DRINKAR </h1>
-
-            <div className='knapp'>
-            <button>Lägg till drink</button>
-            </div>
-            
+            <h1> DAVIDs DRINKAR </h1>            
         </div>
     )
         
