@@ -4,7 +4,7 @@
     "drinks": [
         {
             "name": "Gin Gin Mule",
-            "img": "../Drink/Gin-Gin-Mule-2-023.jpg",
+            "img": "https://cdn.shopify.com/s/files/1/1216/2612/files/Untitled_design_8.png?v=1602184839",
             "ingredients": {
                 "Gin": "5cl",
                 "Lime": "2cl",
@@ -14,7 +14,7 @@
         },
         {
             "name": "Gin Basil Smash",
-            "img": "../Drink/Social-Modern-Classic-Gin-Basil-Smash-Cocktail-Recipe.jpg",
+            "img": "https://assets-prd.punchdrink.com/wp-content/uploads/2014/06/23154856/Recipe-Article-Modern-Classic-Gin-Basil-Smash-Cocktail-Recipe.jpg",
             "ingredients": {
                 "Gin": "5cl",
                 "Citron": "3cl",
@@ -35,7 +35,7 @@
             }
         },
         {    "name": "French 75",
-            "img": "../Drink/French-75-cocktails-with-lemons-and-Champagne-in-the-background-featured-1.jpg",
+            "img": "https://pinchandswirl.com/wp-content/uploads/2015/12/French-75-cocktails-with-lemons-and-Champagne-in-the-background.jpg",
             "ingredients": {
                 "Gin": "3cl",
                 "Citron": "2cl",
@@ -45,7 +45,7 @@
             }
         },
         {   "name": "Whisky Sour",
-            "img": "../Drink/whisky-sour.jpg",
+            "img": "https://img.koket.se/standard-mega/whisky-sour.jpg.webp",
             "ingredients": {
                 "Whiskey": "5cl",
                 "Citron": "3cl",
@@ -54,7 +54,7 @@
              }
         },
         {   "name": "Margarita",
-            "img": "../Drink/margarita_0.jpg",
+            "img": "https://folkofolk.se/sites/default/files/2021-06/margarita_0.jpg",
             "ingredients": {
                 "Tequila": "4cl",
                 "Appelsinlikör": "2cl", 
@@ -63,7 +63,7 @@
          }
         },
         {   "name": "Malibu Pineapple",
-            "img": "../Drink/download.jpg",
+            "img": "https://dolesunshine.com/content/dam/dolesunshine/recipes/1920x1080/Malibu%20and%20Pineapple_20181203_Dole_Audrey_Ma_2377.jpg.thumb.1280.1280.png",
             "ingredients": {
                 "Malibu": "5cl",
                 "Annanasjuice": "10cl", 
@@ -72,7 +72,7 @@
          }
         },
         {   "name": "Pornstar Martini",
-            "img": "../Drink/porn-star-martini-720x720-primary-68432cf5f99740c1933dd26175d77cd0.jpg",
+            "img": "https://www.thecocktaildb.com/images/media/drink/xjhjdf1630406071.jpg",
             "ingredients": {
                 "Vaniljvodka": "5cl",
                 "Citron": "3cl",

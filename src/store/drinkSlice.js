@@ -36,7 +36,6 @@ export const drinkSlice = createSlice({
                 state.isLoading = false;
                 state.hasError = false;
                 state.drinks = action.payload;
-                
             })
             .addCase(loadDrinks.rejected, (state) => {
                 state.isLoading = false;
