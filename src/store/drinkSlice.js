@@ -1,9 +1,8 @@
-import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
+import { createSlice, createAsyncThunk, createSelector } from '@reduxjs/toolkit';
 
 export const loadDrinks = createAsyncThunk(
     'myDrinks/loadDrinks',
     async() => {
-        console.log("HEK")
         const data = await fetch("data.json",{
             headers : { 
               'Content-Type': 'application/json',
@@ -20,11 +19,6 @@ export const drinkSlice = createSlice({
         drinks: [{}],
         error: false,
         isLoading: false,
-    },
-    reducers: {
-        addDrink(state, action){
-            state.drinks = action.payload;
-        }
     },
     extraReducers: (builder) => {
         builder
@@ -44,11 +38,17 @@ export const drinkSlice = createSlice({
     }
 })
 
-
-export const {addDrink} = drinkSlice.actions;
-
 export const selectAllDrinks = (state) => state.myDrinks.drinks;
 
 export const isLoading = (state) => state.myDrinks.isLoading;
 
 export default drinkSlice.reducer;
+
+
+export const filterLiquor =  
+    (drink, liquor) => {
+        drink.drinks.filter(liq => {
+            return (Object.keys( liq.ingredients).includes(liquor))
+        })
+    }
+    

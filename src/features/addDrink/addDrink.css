@@ -1,13 +1,12 @@
+
 .addDrinkForm {
     display: grid;
     flex-direction: row;
-    height: 25rem;
-    width: 25rem;
+    height: 20rem;
     background-color: white;
     text-align: center;
     justify-content: center;
     box-shadow: var(--box-shadow);
-    border: 0;
     border-radius: 3px;
 }
 
@@ -15,24 +14,42 @@
     border: 0;
     text-align: center;
     border-bottom: 1px solid black;
+    
 }
 
 .ingridientser {
     display: flex;
+    flex-wrap: wrap;
     border: 0;
+    border-bottom: 1px solid black;
+}
+
+.ingButton {
+    width: 100%;
+    background-color: white;
+    border: 0;
+    border-top: 1px solid black ;
 }
 
 .typ {
-    flex: 7;
+    width: 75%;
     border: 0;
     border-right: 1px solid black;
     text-align: center;
 }
 
 .mängd{
+    width: 25%;
     flex: 1;
     border: 0;
     text-align: center;
 }
+
+.popup-content {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    padding: 5px;
+  }
 
 

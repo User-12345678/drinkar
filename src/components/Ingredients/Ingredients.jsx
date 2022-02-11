@@ -7,7 +7,9 @@ export default function Ingredients(props){
     return (
         <div className='ingredient'>
             {
-               <p>HEj</p>
+                Object.entries(ingredient).map(([key, value]) => {
+                    return <p> {key}: {value} </p> 
+                 })
             }
         </div> 
     )

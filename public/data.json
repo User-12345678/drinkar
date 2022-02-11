@@ -88,6 +88,16 @@
                 "Sockerlag": "2cl",
                 "Espresso": "6cl "
             }
+        },
+        {   "name": "Mojito",
+            "img": "https://folkofolk.se/sites/default/files/2021-06/calvados-mojito_0.jpg",
+            "ingredients": {
+                "Rom": "5cl",
+                "Lime": "3cl",
+                "Sockerlag": "2cl",
+                "Mynta": "10st ",
+                "Sodavatten": "5cl"
+            }
         }
     ]
 

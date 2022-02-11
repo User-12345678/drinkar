@@ -13,7 +13,7 @@ export default function Drinks(){
 
 
     useEffect(() => {
-        dispatch(loadDrinks())
+        dispatch(loadDrinks());
     },[dispatch])
 
     if(isDrinkLoading){
