@@ -1,15 +1,10 @@
-import React, {useState, useEffect} from 'react'
+import React from 'react'
 import Ingredients from "../Ingredients/Ingredients"
 import "./Drink.css"
 
 export default function Drink(props) {
 
-    const getImage = (image) => {
-        if(image.startsWith("https:")) {
-            return image;
-        }
-        return require(image);
-    }
+
 
     const {drink} = props;
 
