@@ -98,7 +98,89 @@
                 "Mynta": "10st ",
                 "Sodavatten": "5cl"
             }
+        },
+            {   "name": "Clover Club Cocktail",
+                "img": "https://cocktailswithclass.com/wp-content/uploads/2021/11/3-1.jpg.webp",
+                "ingredients": {
+                    "Gin": "5cl",
+                    "Citron": "3cl",
+                    "Hallonsockerlag": "2cl",
+                    "Äggvita": "1st "
+                    
+                }
+        },
+        {   "name": "Pink 75",
+            "img": "https://folkofolk.se/sites/default/files/2021-09/pink-75_0.jpg",
+            "ingredients": {
+                "Gin": "3cl",
+                "Citron": "1.5cl",
+                "Hallonsockerlag": "1.5cl",
+                "Champagne": "10cl "
+                
+            }
+        },
+        {   "name": "Gin Flip Raspberry",
+                "img": "https://folkofolk.se/sites/default/files/2021-09/pink-75_0.jpg",
+                "ingredients": {
+                    "Gin": "5cl",
+                    "Hallonsockerlag": "3cl",
+                    "Ägg": "1st "
+                    
+                }
+        },
+        {   "name": "Southside",
+                "img": "https://drinkoteket.com/wp-content/uploads/southside-860x860.jpg",
+                "ingredients": {
+                    "Gin": "5cl",
+                    "Lime": "3cl",
+                    "Sockerlag": "2cl",
+                    "Mynta": "10st "
+                    
+                }
+        },
+        {   "name": "Garibaldi Sbagliato",
+                "img": "https://nigab.se/wordpress/wp-content/uploads/2018/06/RL_HENDRICKS_Garibaldi_Sbagliato_W1_1480x1024.jpg",
+                "ingredients": {
+                    "Gin": "3cl",
+                    "Campari": "3cl",
+                    "Appelsinjuice": "6cl",
+                    "Champagne": "10cl "
+                    
+                }
+        },
+        {   "name": "Monkey Colada",
+                "img": "https://nigab.se/wordpress/wp-content/uploads/2021/11/monkey_shoulder_colada_drink.jpg",
+                "ingredients": {
+                    "Scotch": "4cl",
+                    "Rom": "2cl",
+                    "Kokosmjölk": "6cl",
+                    "Lime": "1cl",
+                    "Sockerlag": "1cl"
+                    
+                    
+                }
+        },
+        {   "name": "Strawberry Daiquiri",
+                "img": "https://nigab.se/wordpress/wp-content/uploads/2021/03/Strawberry_daiquiri_drink.jpg",
+                "ingredients": {
+                    "Rom": "5cl",
+                    "Lime": "3cl",
+                    "Sockerlag": "2cl",
+                    "Jordgubbar": "3st"
+                    
+                    
+                }
+        },
+        {   "name": "Dark n Stormy",
+                "img": "https://nigab.se/wordpress/wp-content/uploads/2021/02/dark_n_stormy_drink.jpg",
+                "ingredients": {
+                    "Mörk Rom": "5cl",
+                    "Lime": "2cl",
+                    "Ginger beer": "10cl"        
+                }
         }
+    
+    
     ]
 
 
