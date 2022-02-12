@@ -47,7 +47,7 @@ export default function AddDrink(){
             )
             clearForm()
         } else {
-            const drinkToAdd = await createDrink({name, ingredient, image})
+             await createDrink({name, ingredient, image})
             .then(response => {
                 return (response)
             });
