@@ -1,5 +1,4 @@
-import React, { useState, useEffect } from 'react';
-import { useDispatch, useSelector } from 'react-redux';
+import React, { useState } from 'react';
 import { createDrink } from './createDrink';
 import Popup from 'reactjs-popup';
 import "./addDrink.css"
@@ -12,7 +11,6 @@ export default function AddDrink(){
     const [mängd, setMängd] = useState("");
     const [image, setImage] = useState("");
     const [click, setClick] = useState("");
-    const dispatch = useDispatch();
 
     function clearForm(){
         setTyp("")

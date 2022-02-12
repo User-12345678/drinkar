@@ -22,6 +22,7 @@ export default function Drinks(){
 
     return (
         <div className='drinks'>
+            
                 {drinks.drinks?.map(drink => {
                  return <Drink drink={drink}/>
              })}
