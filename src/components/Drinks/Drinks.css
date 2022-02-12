@@ -38,5 +38,6 @@
        justify-content: center;
        align-self: center;
        margin-top: 0.5rem;
+       width: 100%;
     }
   }

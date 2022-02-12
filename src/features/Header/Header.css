@@ -9,4 +9,8 @@
 
 }
 
-
+@media only screen and (max-width: 840px) {
+    .header {
+        width: 100%;
+    }
+  }

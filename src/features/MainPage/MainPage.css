@@ -7,3 +7,11 @@
     box-shadow: var(--box-shadow);
 }
 
+@media only screen and (max-width: 840px) {
+    .mainPage {
+        width: 100%;
+        overflow: hidden;
+        overflow-y: auto;
+    }
+  }
+
