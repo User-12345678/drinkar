@@ -11,7 +11,7 @@
                 "Ginger Bear": "10cl",
                 "Mynta": "10st"
             },
-            "description":  ["Tillsätt Gin, Lime & Mynta i en shaker", "Skaka ordentligt med is", "Häll upp i ett glas med krossad is", "Fyll på med Ginger Beer"]
+            "description":  ["Addera Gin, Lime & Mynta till en shaker", "Skaka ordentligt med is", "Häll upp i ett glas med krossad is", "Fyll på med Ginger Beer"]
         },
         {
             "name": "Gin Basil Smash",
@@ -20,7 +20,8 @@
                 "Gin": "5cl",
                 "Citron": "3cl",
                 "Sockerlag": "2cl"
-            }
+            },
+            "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Häll upp i ett glas med is"]
         },
         {
             "name": "Elder Gin Cocktail",
@@ -33,7 +34,8 @@
                 "Mynta": "10st",
                 "Bubbelvatten": "5cl"
      
-            }
+            },
+            "description": ["Addera alla ingredientser förutom bubbelvatten till en shaker", "Skaka ordentligt med is", "Häll upp i ett glas med is", "Toppa med bubbelvatten"]
         },
         {    "name": "French 75",
             "img": "https://pinchandswirl.com/wp-content/uploads/2015/12/French-75-cocktails-with-lemons-and-Champagne-in-the-background.jpg",
@@ -43,7 +45,8 @@
                 "Sockerlag": "2cl",
                 "Champange": "5cl"
      
-            }
+            },
+            "description": ["Addera Gin, Citron & Sockerlag till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas", "Toppa med champange"]
         },
         {   "name": "Whisky Sour",
             "img": "https://img.koket.se/standard-mega/whisky-sour.jpg.webp",
@@ -52,7 +55,8 @@
                 "Citron": "3cl",
                 "Sockerlag": "2cl",
                 "Äggvita": "1st"
-             }
+             },
+             "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas"]
         },
         {   "name": "Margarita",
             "img": "https://folkofolk.se/sites/default/files/2021-06/margarita_0.jpg",
@@ -61,7 +65,8 @@
                 "Appelsinlikör": "2cl", 
                 "Lime": "2cl",
                 "Sockerlag": "1cl"
-         }
+         },
+         "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med rimmad saltkant"]
         },
         {   "name": "Malibu Pineapple",
             "img": "https://dolesunshine.com/content/dam/dolesunshine/recipes/1920x1080/Malibu%20and%20Pineapple_20181203_Dole_Audrey_Ma_2377.jpg.thumb.1280.1280.png",
@@ -70,7 +75,8 @@
                 "Annanasjuice": "10cl", 
                 "Lime": "2cl",
                 "Sockerlag": "1cl"
-         }
+         }, 
+         "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is"]
         },
         {   "name": "Pornstar Martini",
             "img": "https://www.thecocktaildb.com/images/media/drink/xjhjdf1630406071.jpg",
@@ -80,7 +86,8 @@
                 "Sockerlag": "3cl",
                 "Passionsfrukt": "1st",
                 "Champagne": "4cl"
-            }
+            },
+            "description":["Addera alla ingredientser förutom champange till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas", "Servera champangen vid sidan om"]
         },
         {   "name": "Espresso Martini",
             "img": "https://img.koket.se/standard-mega/espresso-martini-david-kringlund.jpg.webp",
@@ -88,7 +95,8 @@
                 "Vodka": "4cl",
                 "Sockerlag": "2cl",
                 "Espresso": "6cl "
-            }
+            },
+            "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas"]
         },
         {   "name": "Mojito",
             "img": "https://folkofolk.se/sites/default/files/2021-06/calvados-mojito_0.jpg",
@@ -98,17 +106,18 @@
                 "Sockerlag": "2cl",
                 "Mynta": "10st ",
                 "Sodavatten": "5cl"
-            }
+            },
+            "description": ["Addera alla ingredientser förutom sodavatten till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is", "Toppa med sodavatten"]
         },
-            {   "name": "Clover Club Cocktail",
-                "img": "https://cocktailswithclass.com/wp-content/uploads/2021/11/3-1.jpg.webp",
-                "ingredients": {
-                    "Gin": "5cl",
-                    "Citron": "3cl",
-                    "Hallonsockerlag": "2cl",
-                    "Äggvita": "1st "
-                    
-                }
+        {   "name": "Clover Club Cocktail",
+            "img": "https://cocktailswithclass.com/wp-content/uploads/2021/11/3-1.jpg.webp",
+            "ingredients": {
+                "Gin": "5cl",
+                "Citron": "3cl",
+                "Hallonsockerlag": "2cl",
+                "Äggvita": "1st "
+            },
+            "description":  ["Addera alla ingredientser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas"]
         },
         {   "name": "Pink 75",
             "img": "https://folkofolk.se/sites/default/files/2021-09/pink-75_0.jpg",
@@ -117,17 +126,17 @@
                 "Citron": "1.5cl",
                 "Hallonsockerlag": "1.5cl",
                 "Champagne": "10cl "
-                
-            }
+            },
+            "description":["Addera alla ingredientser förutom champange till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas", "Toppa med champange"]
         },
         {   "name": "Gin Flip Raspberry",
                 "img": "https://folkofolk.se/sites/default/files/2021-09/pink-75_0.jpg",
                 "ingredients": {
                     "Gin": "5cl",
                     "Hallonsockerlag": "3cl",
-                    "Ägg": "1st "
-                    
-                }
+                    "Ägg": "1st " 
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas"]
         },
         {   "name": "Southside",
                 "img": "https://drinkoteket.com/wp-content/uploads/southside-860x860.jpg",
@@ -136,8 +145,8 @@
                     "Lime": "3cl",
                     "Sockerlag": "2cl",
                     "Mynta": "10st "
-                    
-                }
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas"]
         },
         {   "name": "Garibaldi Sbagliato",
                 "img": "https://nigab.se/wordpress/wp-content/uploads/2018/06/RL_HENDRICKS_Garibaldi_Sbagliato_W1_1480x1024.jpg",
@@ -145,9 +154,9 @@
                     "Gin": "3cl",
                     "Campari": "3cl",
                     "Appelsinjuice": "6cl",
-                    "Champagne": "10cl "
-                    
-                }
+                    "Champagne": "10cl " 
+                },
+                "description": ["Fyll på Gin, Campari & Appelsinjuice i ett glas", "Fyll på med is", "Toppa med champange"]
         },
         {   "name": "Monkey Colada",
                 "img": "https://nigab.se/wordpress/wp-content/uploads/2021/11/monkey_shoulder_colada_drink.jpg",
@@ -156,10 +165,9 @@
                     "Rom": "2cl",
                     "Kokosmjölk": "6cl",
                     "Lime": "1cl",
-                    "Sockerlag": "1cl"
-                    
-                    
-                }
+                    "Sockerlag": "1cl"  
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Sila till ett glas med is"]
         },
         {   "name": "Strawberry Daiquiri",
                 "img": "https://nigab.se/wordpress/wp-content/uploads/2021/03/Strawberry_daiquiri_drink.jpg",
@@ -167,18 +175,18 @@
                     "Rom": "5cl",
                     "Lime": "3cl",
                     "Sockerlag": "2cl",
-                    "Jordgubbar": "3st"
-                    
-                    
-                }
+                    "Jordgubbar": "3st" 
+                },
+                "description": ["Addera alla ingredientser till en mixer", "Tillsätt 10 isbitar", "Mixa tills krämig konsistens", "Häll upp i glas" ]
         },
         {   "name": "Dark n Stormy",
                 "img": "https://nigab.se/wordpress/wp-content/uploads/2021/02/dark_n_stormy_drink.jpg",
                 "ingredients": {
                     "Mörk Rom": "5cl",
                     "Lime": "2cl",
-                    "Ginger beer": "10cl"        
-                }
+                    "Ginger Beer": "10cl"        
+                },
+                "description": ["Addera Rom & Lime till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is", "Toppa med Ginger Beer"]
         }
     
     
