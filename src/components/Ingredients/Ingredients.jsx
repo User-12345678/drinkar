@@ -1,4 +1,5 @@
 import React from 'react'
+import "./Ingretients.css"
 
 export default function Ingredients(props){
 
