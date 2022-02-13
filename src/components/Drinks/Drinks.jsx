@@ -22,7 +22,6 @@ export default function Drinks(){
 
     return (
         <div className='drinks'>
-            {console.log( sortedDrinks)}
                 {sortedDrinks?.map(drink => {
                  return <Drink drink={drink}/>
              })}
