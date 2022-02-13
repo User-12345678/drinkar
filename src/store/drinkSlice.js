@@ -1,4 +1,4 @@
-import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
+import { createSlice, createAsyncThunk, createSelector } from '@reduxjs/toolkit';
 
 export const loadDrinks = createAsyncThunk(
     'myDrinks/loadDrinks',
@@ -44,11 +44,16 @@ export const isLoading = (state) => state.myDrinks.isLoading;
 
 export default drinkSlice.reducer;
 
-
-export const filterLiquor =  
-    (drink, liquor) => {
-        drink.drinks.filter(liq => {
-            return (Object.keys( liq.ingredients).includes(liquor))
-        })
+export const selectOrderDrinks = createSelector(
+    [ selectAllDrinks ],
+    (drinks) => {
+        if(drinks.drinks){
+            let list = Object.keys(drinks.drinks).sort((a,b) => (drinks.drinks[a].name > drinks.drinks[b].name ? 1 : -1));
+            return list.map(number =>  drinks.drinks[number])
+        }
     }
+    )
+
+
+
     

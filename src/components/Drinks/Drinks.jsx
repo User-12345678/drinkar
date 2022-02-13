@@ -1,14 +1,14 @@
 import React, { useEffect} from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { loadDrinks,selectAllDrinks, isLoading } from '../../store/drinkSlice';
+import { loadDrinks, isLoading, selectOrderDrinks } from '../../store/drinkSlice';
 import "./Drinks.css"
 import Drink from '../Drink/Drink'
 
 export default function Drinks(){
 
     const dispatch = useDispatch();
-    const drinks = useSelector(selectAllDrinks);
     const isDrinkLoading = useSelector(isLoading);
+    const sortedDrinks = useSelector(selectOrderDrinks);
 
 
 
@@ -22,8 +22,8 @@ export default function Drinks(){
 
     return (
         <div className='drinks'>
-            
-                {drinks.drinks?.map(drink => {
+            {console.log( sortedDrinks)}
+                {sortedDrinks?.map(drink => {
                  return <Drink drink={drink}/>
              })}
         </div>
