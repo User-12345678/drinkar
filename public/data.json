@@ -10,7 +10,8 @@
                 "Lime": "2cl",
                 "Ginger Bear": "10cl",
                 "Mynta": "10st"
-            }
+            },
+            "description":  ["Tillsätt Gin, Lime & Mynta i en shaker", "Skaka ordentligt med is", "Häll upp i ett glas med krossad is", "Fyll på med Ginger Beer"]
         },
         {
             "name": "Gin Basil Smash",
