@@ -3,6 +3,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { loadDrinks, isLoading, selectOrderDrinks } from '../../store/drinkSlice';
 import "./Drinks.css"
 import Drink from '../Drink/Drink'
+import Skeleton from 'react-loading-skeleton'
 
 export default function Drinks(){
 
@@ -16,8 +17,9 @@ export default function Drinks(){
         dispatch(loadDrinks());
     },[dispatch])
 
+
     if(isDrinkLoading){
-        return( <p>Loading</p> )
+        return  <p>WOWOWO</p>
     }
 
     return (

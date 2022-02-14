@@ -247,6 +247,48 @@
                     "Sockerlag": "1cl"        
                 },
                 "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas"]
+        },
+        {   "name": "Passion fruit daiquiri",
+                "img": "https://images.squarespace-cdn.com/content/v1/5423e63be4b043d8a3d9c6d7/1621121790982-PKNG7DS2LHVY4O6ISQO0/Passionfruit+Daiquiri.jpg?format=1000w",
+                "ingredients": {
+                    "Rom": "5cl",
+                    "Campari": "1cl",
+                    "Lime": "2cl",
+                    "Sockerlag": "2cl",
+                    "Passionsfrukt": "1st"        
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas"]
+        },
+        {   "name": "Old Cuban",
+                "img": "https://preview.redd.it/0fdvnz3d1e061.jpg?width=640&crop=smart&auto=webp&s=fcd91b86c18d1956fcaf34c6e36bbe15d4474fc8",
+                "ingredients": {
+                    "Mörk Rom": "5cl",
+                    "Lime": "2cl",
+                    "Sockerlag": "3cl",
+                    "Mynta": "10st",
+                    "Angostura Bitters": "2 droppar",
+                    "Champagne": "10cl"
+                },
+                "description": ["Addera alla ingredientser förutom champange till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas", "Toppa med champange"]
+        },
+        {   "name": "Bee’s Knees",
+                "img": "https://alushlifemanual.com/wp-content/uploads/2021/09/Bees-Knees-Cocktail.jpg",
+                "ingredients": {
+                    "Gin": "5cl",
+                    "Lime": "3cl",
+                    "Honung": "2cl"
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas"]
+        },
+        {   "name": "Amaretto Sour Recipe",
+                "img": "https://nigab.se/wordpress/wp-content/uploads/2020/06/drink_amaretto_sour_nigab.jpg",
+                "ingredients": {
+                    "Amaretto": "5cl",
+                    "Lime": "3cl",
+                    "Sockerlag": "2cl",
+                    "Äggvita": "1st"
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas"]
         }
 
     ]
