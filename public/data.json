@@ -187,9 +187,68 @@
                     "Ginger Beer": "10cl"        
                 },
                 "description": ["Addera Rom & Lime till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is", "Toppa med Ginger Beer"]
+        },
+        {   "name": "Tom Collins med hallon",
+                "img": "https://img.koket.se/standard-mega/tom-collins-med-hallon.png.webp",
+                "ingredients": {
+                    "Gin": "5cl",
+                    "Citron": "3cl",
+                    "Hallon": "2-4st"        
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is", "Toppa med bubbelvatten" ]
+        },
+        {   "name": "Long island iced tea",
+                "img": "https://img.koket.se/standard-mega/long-island-iced-tea.jpg.webp",
+                "ingredients": {
+                    "Gin": "1cl",
+                    "Tequila": "1cl",
+                    "Rom": "1cl",
+                    "Appelsinlikör": "1cl",
+                    "Vodka": "1cl",
+                    "Citron": "3cl",
+                    "Sockerlag": "2cl"        
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is", "Toppa med Cocla Cola" ]
+        },
+        {   "name": "Daquiri",
+                "img": "https://img.koket.se/standard-mega/daquiri.jpg.webp",
+                "ingredients": {
+                    "Rom": "5cl",
+                    "Lime": "3cl",
+                    "Sockerlag": "2cl"        
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas "]
+        },
+        {   "name": "Tom Collins",
+                "img": "https://img.koket.se/standard-mega/tom-collins-david-kringlund.jpg.webp",
+                "ingredients": {
+                    "Gin": "5cl",
+                    "Citron": "3cl",
+                    "Sockerlag": "2cl"        
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is", "Toppa med sodavatten"]
+        },
+        {   "name": "Barbeque Margarita",
+                "img": "https://nigab.se/wordpress/wp-content/uploads/2021/12/BBQMargarita_nigab.jpg",
+                "ingredients": {
+                    "Tequila": "4cl",
+                    "Appelsinlikör": "2.5cl",
+                    "Grillad Lime": "2cl"        
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is & rimmad saltkant"]
+        },
+        {   "name": "Between the Sheets",
+                "img": "https://nigab.se/wordpress/wp-content/uploads/2021/02/between_the_sheets_drink.jpg",
+                "ingredients": {
+                    "Rom": "2cl",
+                    "Cognac": "2cl",
+                    "Appelsinlikör": "2cl",
+                    "Citron": "1cl",
+                    "Sockerlag": "1cl"        
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas"]
         }
-    
-    
+
     ]
 
 
