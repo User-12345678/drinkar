@@ -2,7 +2,6 @@ import React,{useState} from 'react'
 import Ingredients from "../Ingredients/Ingredients"
 import "./Drink.css"
 import Description from '../Description/Description';
-import Skeleton from 'react-loading-skeleton'
 
 
 export default function Drink(props) {
@@ -15,8 +14,8 @@ export default function Drink(props) {
 
     return (
         <div className='drink' key={drink.name}>
-            <p className='drinkName'>{drink.name || <Skeleton />}</p>
-            <img src={drink.img || <Skeleton />} alt={drink.name}/>
+            <p className='drinkName'>{drink.name }</p>
+            <img src={drink.img } alt={drink.name}/>
             <Ingredients ingredient={drink.ingredients} />
             { showDescription?  <Description description={drink.description} className='description' /> : null }
             <div className="buttonHolder">
