@@ -19,7 +19,8 @@
             "ingredients": {
                 "Gin": "5cl",
                 "Citron": "3cl",
-                "Sockerlag": "2cl"
+                "Sockerlag": "2cl",
+                "Basilika": "6-8st"
             },
             "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Häll upp i ett glas med is"]
         },
@@ -280,7 +281,7 @@
                 },
                 "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas"]
         },
-        {   "name": "Amaretto Sour Recipe",
+        {   "name": "Amaretto Sour",
                 "img": "https://nigab.se/wordpress/wp-content/uploads/2020/06/drink_amaretto_sour_nigab.jpg",
                 "ingredients": {
                     "Amaretto": "5cl",
