@@ -289,6 +289,42 @@
                     "Äggvita": "1st"
                 },
                 "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas"]
+        },
+        {   "name": "Manhattan",
+                "img": "https://www.knobcreek.com/sites/default/files/2018-06/thumb__0006_8909_KC_Perfect_Manhattan-4774-1.jpg",
+                "ingredients": {
+                    "Whiskey": "4cl",
+                    "Sweet Vermouth": "2cl",
+                    "Angostura Bitters": "1 droppe"
+                },
+                "description": ["Addera alla ingredientser till ett stort glass", "Addera en stor is bit", "Rör runt med i sked i ca 30 sek", "Sila till ett glas"]
+        },
+        {   "name": "Aperol Spritz",
+                "img": "https://www.knobcreek.com/sites/default/files/2018-06/thumb__0006_8909_KC_Perfect_Manhattan-4774-1.jpg",
+                "ingredients": {
+                    "Club Soda ": "3cl",
+                    "Aperol": "6cl",
+                    "Prosecco": "9cl"
+                },
+                "description": ["Addera alla ingredientser till ett stort glass fyllt med is"]
+        },
+        {   "name": "Old Fashioned",
+                "img": "https://www.liquor.com/thmb/lavmUGaMMriZPSxfHsPnyK15bSY=/720x720/filters:fill(auto,1)/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__05__08113350__bourbon-old-fashioned-720x720-recipe-ade6f7780c304999be3577e565c9bcdd.jpg",
+                "ingredients": {
+                    "Whiskey": "6cl",
+                    "Sockerlag": "1cl",
+                    "Angostura Bitters": "4 droppar"
+                },
+                "description": ["Addera alla ingredientser till ett stort glass", "Addera en stor is bit", "Rör runt med i sked i ca 30 sek", "Sila till ett glas med is", "Toppa med apelsinzest "]
+        },
+        {   "name": "Negroni",
+                "img": "https://nigab.se/wordpress/wp-content/uploads/2015/12/NEGRONI_nigab_2018-1536x756.jpg",
+                "ingredients": {
+                    "Gin": "2cl",
+                    "Sweet Vermouth": "2cl",
+                    "Campari": "2cl"
+                },
+                "description": ["Addera alla ingredientser till ett stort glass", "Addera en stor is bit", "Rör runt tills kall", "Garnera med apelsin"]
         }
 
     ]
