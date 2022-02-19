@@ -13,6 +13,14 @@
     background-color: white;
 }
 
+a {
+    color: black;
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
 .drinkName {
     margin-top: 30px;
 }

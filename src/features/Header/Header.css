@@ -5,10 +5,33 @@
     justify-content: center;
     box-shadow: var(--box-shadow);
     width: 98%;
-    
-
 }
 
+ul {
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    width: 100%;
+    list-style-type: none;
+}
+
+li {
+    color: black;
+    box-shadow: var(--box-shadow);
+    width: 7rem;
+    height: 3.5rem;
+}
+
+a {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.active {
+    background-color: rgba(128, 128, 128, 0.11);
+}
 @media only screen and (max-width: 840px) {
     .header {
         width: 100%;
