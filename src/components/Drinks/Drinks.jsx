@@ -3,6 +3,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { loadDrinks, isLoading, selectOrderDrinks } from '../../store/drinkSlice';
 import "./Drinks.css"
 import Drink from '../Drink/Drink'
+import MyLoader from '../../features/Skeleton/Skeleton';
 
 export default function Drinks(){
 
@@ -11,14 +12,33 @@ export default function Drinks(){
     const sortedDrinks = useSelector(selectOrderDrinks);
 
 
-
+    
     useEffect(() => {
         dispatch(loadDrinks());
     },[dispatch])
 
 
     if(isDrinkLoading){
-        return  <p>WOWOWO</p>
+        return (
+            <div className='drinks'>
+                <MyLoader />
+                <MyLoader />
+                <MyLoader />
+                <MyLoader />
+                <MyLoader />
+                <MyLoader />
+                <MyLoader />
+                <MyLoader />
+                <MyLoader />
+                <MyLoader />
+                <MyLoader />
+                <MyLoader />
+            </div>
+           
+        )
+           
+
+      
     }
 
     return (

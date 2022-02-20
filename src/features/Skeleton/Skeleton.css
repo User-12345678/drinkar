@@ -1,0 +1,15 @@
+.loader {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    box-shadow: var(--box-shadow);
+    margin-right: 1rem;
+    margin-left: 1rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    max-width: 320px;
+    height: 100%;
+    background-color: white;
+
+}
