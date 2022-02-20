@@ -102,7 +102,7 @@
         {   "name": "Mojito",
             "img": "https://folkofolk.se/sites/default/files/2021-06/calvados-mojito_0.jpg",
             "ingredients": {
-                "Rom": "5cl",
+                "Ljus Rom": "5cl",
                 "Lime": "3cl",
                 "Sockerlag": "2cl",
                 "Mynta": "10st ",
@@ -163,7 +163,7 @@
                 "img": "https://nigab.se/wordpress/wp-content/uploads/2021/11/monkey_shoulder_colada_drink.jpg",
                 "ingredients": {
                     "Scotch": "4cl",
-                    "Rom": "2cl",
+                    "Ljus Rom": "2cl",
                     "Kokosmjölk": "6cl",
                     "Lime": "1cl",
                     "Sockerlag": "1cl"  
@@ -173,7 +173,7 @@
         {   "name": "Strawberry Daiquiri",
                 "img": "https://nigab.se/wordpress/wp-content/uploads/2021/03/Strawberry_daiquiri_drink.jpg",
                 "ingredients": {
-                    "Rom": "5cl",
+                    "Ljus Rom": "5cl",
                     "Lime": "3cl",
                     "Sockerlag": "2cl",
                     "Jordgubbar": "3st" 
@@ -203,7 +203,7 @@
                 "ingredients": {
                     "Gin": "1cl",
                     "Tequila": "1cl",
-                    "Rom": "1cl",
+                    "Ljus Rom": "1cl",
                     "Appelsinlikör": "1cl",
                     "Vodka": "1cl",
                     "Citron": "3cl",
@@ -214,7 +214,7 @@
         {   "name": "Daquiri",
                 "img": "https://img.koket.se/standard-mega/daquiri.jpg.webp",
                 "ingredients": {
-                    "Rom": "5cl",
+                    "Ljus Rom": "5cl",
                     "Lime": "3cl",
                     "Sockerlag": "2cl"        
                 },
@@ -241,7 +241,7 @@
         {   "name": "Between the Sheets",
                 "img": "https://nigab.se/wordpress/wp-content/uploads/2021/02/between_the_sheets_drink.jpg",
                 "ingredients": {
-                    "Rom": "2cl",
+                    "Ljus Rom": "2cl",
                     "Cognac": "2cl",
                     "Appelsinlikör": "2cl",
                     "Citron": "1cl",
@@ -252,7 +252,7 @@
         {   "name": "Passion fruit daiquiri",
                 "img": "https://images.squarespace-cdn.com/content/v1/5423e63be4b043d8a3d9c6d7/1621121790982-PKNG7DS2LHVY4O6ISQO0/Passionfruit+Daiquiri.jpg?format=1000w",
                 "ingredients": {
-                    "Rom": "5cl",
+                    "Ljus Rom": "5cl",
                     "Campari": "1cl",
                     "Lime": "2cl",
                     "Sockerlag": "2cl",
@@ -326,7 +326,72 @@
                     "Campari": "2cl"
                 },
                 "description": ["Addera alla ingredientser till ett stort glass", "Addera en stor is bit", "Rör runt tills kall", "Garnera med apelsin"]
+        },
+        {   "name": "White Russian",
+                "img": "https://www.mantitlement.com/wp-content/uploads/2020/03/white-russian-feature.jpg",
+                "ingredients": {
+                    "Vodka": "4cl",
+                    "Kahlua": "2cl",
+                    "Vispgrädde": "2cl"
+                },
+                "description": ["Fyll ett glas med is", "Addera alla ingredientser glaset", "Rör runt tills kall"]
+        },
+        {   "name": "Moscow Mule",
+                "img": "https://www.thespruceeats.com/thmb/XJeTzWlEoWXXRO1_wtYP-jYKSHE=/3845x3845/smart/filters:no_upscale()/moscow-mule-recipe-759741-hero-01-8745d4ade7a94c4bbe0542fe0ab9701e.jpg",
+                "ingredients": {
+                    "Vodka": "5cl",
+                    "Lime": "3cl",
+                    "Ingefärssockerlag": "2cl"
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is"]
+        },
+        {   "name": "Caipirinha",
+                "img": "https://img.koket.se/standard-mega/caipirinha-david-kringlund.jpg",
+                "ingredients": {
+                    "Cachaça ": "5cl",
+                    "Lime": "6 klyftor",
+                    "Strösocker": "1.5tsk"
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Muddra ordenliga", "Fyll shakern med is och skaka tills kall", "Dumpa allt i ett glas"]
+        },
+        {   "name": "Gimlet",
+                "img": "https://images.absolutdrinks.com/drink-images/Raw/Absolut/7e02b14d-1d45-4ad2-b75c-900e8e5859d5.jpg?imwidth=500",
+                "ingredients": {
+                    "Gin ": "5cl",
+                    "Lime": "3cl",
+                    "Sockerlag": "2cl"
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas "]
+        },
+        {   "name": "Honeysuckle ",
+                "img": "https://i.ytimg.com/vi/tgX5X28zfLk/maxresdefault.jpg",
+                "ingredients": {
+                    "Ljus Lagrad Rom ": "6cl",
+                    "Citron": "3cl",
+                    "Honung": "2cl"
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas "]
+        },
+        {   "name": "Pamola ",
+                "img": "https://cdn.loveandlemons.com/wp-content/uploads/2020/04/paloma.jpg",
+                "ingredients": {
+                    "Tequila": "5cl",
+                    "Pink grapefruit soda": "10cl",
+                    "Lime": "1cl"
+                },
+                "description": ["Addera alla ingredientser till ett glas med is"]
+        },
+        {   "name": "Whisky Sour Med Salvia ",
+                "img": "https://img.koket.se/standard-mega/whisky-sour-med-salvia.png.webp",
+                "ingredients": {
+                    "Bourbon": "5cl",
+                    "Citron": "3cl",
+                    "Salviasockerlag": "2cl",
+                    "Äggvita": "1st"
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas "]
         }
+
 
     ]
 
