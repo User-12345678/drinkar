@@ -1,0 +1,14 @@
+{
+    "syrups": [
+        {
+            "name": "Negroni",
+                "img": "https://nigab.se/wordpress/wp-content/uploads/2015/12/NEGRONI_nigab_2018-1536x756.jpg",
+                "ingredients": {
+                    "Gin": "2cl",
+                    "Sweet Vermouth": "2cl",
+                    "Campari": "2cl"
+                },
+                "description": ["Addera alla ingredientser till ett stort glass", "Addera en stor is bit", "Rör runt tills kall", "Garnera med apelsin"]
+        }
+    ]
+}

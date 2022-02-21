@@ -17,7 +17,7 @@ export const drinkSlice = createSlice({
     name: 'myDrinks',
     initialState: {
         drinks: [{}],
-        error: false,
+        hasError: false,
         isLoading: false,
     },
     extraReducers: (builder) => {

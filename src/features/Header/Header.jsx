@@ -1,10 +1,6 @@
 import React from 'react'
 import "./Header.css"
-import {BrowserRouter as Router,
-Routes, Route, NavLink} from 'react-router-dom';
-import Shots from "../Shots/Shots";
-import Syrup from "../Syrup/Syrup";
-import MainPage from "../MainPage/MainPage";
+import {NavLink} from 'react-router-dom';
 
 export default function Header() {
 
@@ -21,7 +17,7 @@ export default function Header() {
                         <NavLink to="/"> DRINKAR</NavLink>
                     </li>
                     <li>
-                        <NavLink to="/syrup"> SOCKERLAG</NavLink>
+                        <NavLink to="/syrups"> SOCKERLAG</NavLink>
                     </li>
                     <li>
                         <NavLink to="/shots"> SHOTS</NavLink>
