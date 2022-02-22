@@ -17,6 +17,7 @@ export const drinkSlice = createSlice({
     name: 'myDrinks',
     initialState: {
         drinks: [{}],
+        drinksToShow: ['Gin'],
         error: false,
         isLoading: false,
     },
@@ -40,6 +41,8 @@ export const drinkSlice = createSlice({
 
 export const selectAllDrinks = (state) => state.myDrinks.drinks;
 
+export const selectFilter = (state) => state.myDrinks.drinksToShow;
+
 export const isLoading = (state) => state.myDrinks.isLoading;
 
 export default drinkSlice.reducer;
@@ -53,6 +56,19 @@ export const selectOrderDrinks = createSelector(
         }
     }
     )
+
+export const selectFilterDrinks = createSelector(
+    [ selectAllDrinks, selectFilter ], 
+    (drinks, drinksFilter) => {
+        if(drinks.drinks && drinksFilter.length){
+          const drink2 = Object.values(drinks.drinks);
+            const name = drink2.filter(drink => Object.keys(drink.ingredients).includes("Gin"));
+            console.log(name)
+          
+        }
+    }
+
+)
 
 
 
