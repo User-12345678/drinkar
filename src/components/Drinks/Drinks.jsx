@@ -44,10 +44,9 @@ export default function Drinks(){
 
     return (
         <div className='drinks'>
-                {sortedDrinks?.map(drink => {
+                {filterDrinks?.map(drink => {
                  return <Drink drink={drink}/>
              })}
-             { filterDrinks}
         </div>
        
     )

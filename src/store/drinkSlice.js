@@ -17,9 +17,18 @@ export const drinkSlice = createSlice({
     name: 'myDrinks',
     initialState: {
         drinks: [{}],
-        drinksToShow: ['Gin'],
+        drinksToShow: [],
         error: false,
         isLoading: false,
+    },
+    reducers : {
+        addFilter(state, action) {
+            state.drinksToShow.push(action.payload);
+        },
+        removeFilter(state, action){
+            const index = state.drinksToShow.indexOf(action.payload);
+            state.drinksToShow.splice(index, 1);
+        },
     },
     extraReducers: (builder) => {
         builder
@@ -38,6 +47,10 @@ export const drinkSlice = createSlice({
             })
     }
 })
+
+export const {addFilter} = drinkSlice.actions;
+
+export const {removeFilter} = drinkSlice.actions;
 
 export const selectAllDrinks = (state) => state.myDrinks.drinks;
 
@@ -62,12 +75,26 @@ export const selectFilterDrinks = createSelector(
     (drinks, drinksFilter) => {
         if(drinks.drinks && drinksFilter.length){
           const drink2 = Object.values(drinks.drinks);
-            const name = drink2.filter(drink => Object.keys(drink.ingredients).includes("Gin"));
-            console.log(name)
-          
+          let map = new Map()
+          for(let value of drinksFilter){
+              for(let dr of drink2){
+                 for( let ing of Object.keys(dr.ingredients)){
+                     if(ing.toLowerCase().includes(value.toLowerCase())){
+                        map.set(dr.name, dr)
+                        break;
+                     }
+                 }
+              }
+          }
+          let array = []
+          map.forEach(drink => array.push(drink))
+          return array.sort((a,b) => (a.name > b.name ? 1 : -1));
+        }
+        if(drinks.drinks){
+            let list = Object.keys(drinks.drinks).sort((a,b) => (drinks.drinks[a].name > drinks.drinks[b].name ? 1 : -1));
+            return list.map(number =>  drinks.drinks[number])
         }
     }
-
 )
 
 
