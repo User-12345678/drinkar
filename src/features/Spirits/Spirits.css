@@ -7,21 +7,37 @@
     margin-top: 2rem;
 }
 
+.spiritButton{
+  height: 3rem;
+  width: 5rem;
+  margin-right: 0.5rem;
+  box-shadow: var(--box-shadow);
+  border: 0;
+  border-radius: 5%;
+  background-color: white;
+}
+
+.spiritButton[value="true"] {
+  background-color: rgba(128, 128, 128, 0.116);
+}
+
 
   @media only screen and (max-width: 670px) {
     .spirits {
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
+        display: flex;
+        flex-wrap: wrap;
         gap: 0.2rem;
         justify-content: center;
+        align-content: center;
         align-self: center;
-        margin-top: 2rem;
+        margin-top: 1rem;
     }
 
     button {
         height: 3rem;
         min-width: 2rem;
         margin-right: 0.5rem;
+        margin-top: 0.5rem;
         box-shadow: var(--box-shadow);
         border: 0;
         border-radius: 5%;

@@ -1,18 +1,23 @@
-import React, { useEffect} from 'react'
-import { useDispatch } from 'react-redux';
+import React from 'react'
+import Spirit from './Spirit'
+
+
 import "./Spirits.css"
-import { loadDrinks } from '../../store/drinkSlice';
+
 
 export default function Sprits() {
-    const dispatch = useDispatch();
- 
-    useEffect(() => {
-        dispatch(loadDrinks());
-    },[dispatch])
+
+
+    const array = ["Rom", "Gin", "Tequila", "Vodka", "Whiskey"]
+    array.sort((a,b) => a > b ? 1 : -1);
 
     return (
 
         <div className='spirits'>
+            {array.map(toMap => {
+                return <Spirit spirit={toMap} />
+            })}
+  
           
         </div>
     )

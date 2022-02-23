@@ -162,7 +162,7 @@
         {   "name": "Monkey Colada",
                 "img": "https://nigab.se/wordpress/wp-content/uploads/2021/11/monkey_shoulder_colada_drink.jpg",
                 "ingredients": {
-                    "Scotch": "4cl",
+                    "Whiskey": "4cl",
                     "Ljus Rom": "2cl",
                     "Kokosmjölk": "6cl",
                     "Lime": "1cl",
@@ -384,7 +384,7 @@
         {   "name": "Whisky Sour Med Salvia ",
                 "img": "https://img.koket.se/standard-mega/whisky-sour-med-salvia.png.webp",
                 "ingredients": {
-                    "Bourbon": "5cl",
+                    "Whiskey": "5cl",
                     "Citron": "3cl",
                     "Salviasockerlag": "2cl",
                     "Äggvita": "1st"
