@@ -1,6 +1,7 @@
 import React,{useState} from 'react'
 import { addFilter, removeFilter } from '../../store/drinkSlice'
-import { useDispatch, useSelector } from 'react-redux';
+import { useDispatch } from 'react-redux';
+
 
 import "./Spirits.css"
 
@@ -11,9 +12,8 @@ export default function Sprit(props) {
 
     const {spirit} = props; 
 
+
     return (
-            
-         <button className="spiritButton" key={spirit} value={isSelected} onClick={() => dispatch( isSelected ?  removeFilter(spirit) :addFilter(spirit) , setSelected(!isSelected))} > {spirit} </button>
-  
+         <button className="spiritButton" key={spirit} value={isSelected} onClick={() => dispatch( isSelected ?  removeFilter(spirit) :addFilter(spirit) , setSelected(!isSelected))} > {spirit} </button>  
     )
 }

@@ -60,16 +60,6 @@ export const isLoading = (state) => state.myDrinks.isLoading;
 
 export default drinkSlice.reducer;
 
-export const selectOrderDrinks = createSelector(
-    [ selectAllDrinks ],
-    (drinks) => {
-        if(drinks.drinks){
-            let list = Object.keys(drinks.drinks).sort((a,b) => (drinks.drinks[a].name > drinks.drinks[b].name ? 1 : -1));
-            return list.map(number =>  drinks.drinks[number])
-        }
-    }
-    )
-
 export const selectFilterDrinks = createSelector(
     [ selectAllDrinks, selectFilter ], 
     (drinks, drinksFilter) => {

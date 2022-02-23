@@ -1,5 +1,6 @@
-import React,{useState} from 'react'
+import React from 'react'
 import Spirit from './Spirit'
+
 
 import "./Spirits.css"
 
@@ -7,7 +8,8 @@ import "./Spirits.css"
 export default function Sprits() {
 
 
-    const array = ["Rom", "Gin", "Amaretto", "Tequila", "Vodka", "Whiskey"]
+    const array = ["Rom", "Gin", "Tequila", "Vodka", "Whiskey"]
+    array.sort((a,b) => a > b ? 1 : -1);
 
     return (
 
