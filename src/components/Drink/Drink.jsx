@@ -17,7 +17,7 @@ export default function Drink(props) {
             <p className='drinkName'>{drink.name }</p>
             <img src={drink.img } alt={drink.name}/>
             <Ingredients ingredient={drink.ingredients} />
-            { showDescription?  <Description description={drink.description} className='description' /> : null }
+            { showDescription?  <Description description={drink.description} syrup={drink.Syrup} className='description' /> : null }
             <div className="buttonHolder">
             { !showDescription && drink.description ? <button className='drinkButton'  onClick={() => setShow(true)}> Visa mer info</button> : null}
             { showDescription ? <button className='drinkButton'  onClick={() => setShow(false)}> Visa mindre info</button> : null}
