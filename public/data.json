@@ -6,10 +6,10 @@
             "name": "Gin Gin Mule",
             "img": "https://www.coqtailmilano.com/wp-content/uploads/2021/04/Ricetta-London-Mule-Gin-Gin-Mule-Coqtail-Milano.jpg",
             "ingredients": {
-                "Gin": "5cl",
-                "Lime": "2cl",
-                "Ginger Beer": "10cl",
-                "Mynta": "10st"
+                "Gin": "5 cl",
+                "Lime": "2 cl",
+                "Ginger Beer": "10 cl",
+                "Mynta": "10 st"
             },
             "description":  ["Addera Gin, Lime & Mynta till en shaker", "Skaka ordentligt med is", "Häll upp i ett glas med krossad is", "Fyll på med Ginger Beer"]
         },
@@ -17,34 +17,34 @@
             "name": "Gin Basil Smash",
             "img": "https://www.acouplecooks.com/wp-content/uploads/2021/05/Gin-Basil-Smash-001.jpg",
             "ingredients": {
-                "Gin": "5cl",
-                "Citron": "3cl",
-                "Sockerlag": "2cl",
-                "Basilika": "6-8st"
+                "Gin": "5 cl",
+                "Citron": "3 cl",
+                "Sockerlag": "2 cl",
+                "Basilika": "6-8 st"
             },
-            "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Häll upp i ett glas med is"]
+            "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Häll upp i ett glas med is"]
         },
         {
             "name": "Elder Gin Cocktail",
             "img": "https://www.thespruceeats.com/thmb/JO6CrWIKlinWjnXV2BTqU_RwX7M=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/EyeCandyCocktail-760048-011-5a2a128753ef4d07b836c4f5ccc9a8ae.jpg",
             "ingredients": {
-                "Gin": "6cl",
-                "Flädersaft": "2cl",
-                "Citron": "2cl",
+                "Gin": "6 cl",
+                "Flädersaft": "2 cl",
+                "Citron": "2 cl",
                 "Ingefära": "1/2msk",
-                "Mynta": "10st",
-                "Bubbelvatten": "5cl"
+                "Mynta": "10 st",
+                "Bubbelvatten": "5 cl"
      
             },
-            "description": ["Addera alla ingredientser förutom bubbelvatten till en shaker", "Skaka ordentligt med is", "Häll upp i ett glas med is", "Toppa med bubbelvatten"]
+            "description": ["Addera alla ingredienser förutom bubbelvatten till en shaker", "Skaka ordentligt med is", "Häll upp i ett glas med is", "Toppa med bubbelvatten"]
         },
         {    "name": "French 75",
             "img": "https://pinchandswirl.com/wp-content/uploads/2015/12/French-75-cocktails-with-lemons-and-Champagne-in-the-background.jpg",
             "ingredients": {
-                "Gin": "3cl",
-                "Citron": "2cl",
-                "Sockerlag": "2cl",
-                "Champange": "5cl"
+                "Gin": "3 cl",
+                "Citron": "2 cl",
+                "Sockerlag": "2 cl",
+                "Champange": "5 cl"
      
             },
             "description": ["Addera Gin, Citron & Sockerlag till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas", "Toppa med champange"]
@@ -52,112 +52,112 @@
         {   "name": "Whisky Sour",
             "img": "https://img.koket.se/standard-mega/whisky-sour.jpg.webp",
             "ingredients": {
-                "Whiskey": "5cl",
-                "Citron": "3cl",
-                "Sockerlag": "2cl",
-                "Äggvita": "1st"
+                "Whiskey": "5 cl",
+                "Citron": "3 cl",
+                "Sockerlag": "2 cl",
+                "Äggvita": "1 st"
              },
-             "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas"]
+             "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas"]
         },
         {   "name": "Margarita",
             "img": "https://folkofolk.se/sites/default/files/2021-06/margarita_0.jpg",
             "ingredients": {
-                "Tequila": "4cl",
-                "Appelsinlikör": "2cl", 
-                "Lime": "2cl",
-                "Sockerlag": "1cl"
+                "Tequila": "4 cl",
+                "Appelsinlikör": "2 cl", 
+                "Lime": "2 cl",
+                "Sockerlag": "1 cl"
          },
-         "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med rimmad saltkant"]
+         "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med rimmad saltkant"]
         },
         {   "name": "Malibu Pineapple",
             "img": "https://dolesunshine.com/content/dam/dolesunshine/recipes/1920x1080/Malibu%20and%20Pineapple_20181203_Dole_Audrey_Ma_2377.jpg.thumb.1280.1280.png",
             "ingredients": {
-                "Malibu": "5cl",
-                "Annanasjuice": "10cl", 
-                "Lime": "2cl",
-                "Sockerlag": "1cl"
+                "Malibu": "5 cl",
+                "Annanasjuice": "10 cl", 
+                "Lime": "2 cl",
+                "Sockerlag": "1 cl"
          }, 
-         "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is"]
+         "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is"]
         },
         {   "name": "Pornstar Martini",
             "img": "https://www.thecocktaildb.com/images/media/drink/xjhjdf1630406071.jpg",
             "ingredients": {
-                "Vaniljvodka": "5cl",
-                "Citron": "3cl",
-                "Sockerlag": "3cl",
-                "Passionsfrukt": "1st",
-                "Champagne": "4cl"
+                "Vaniljvodka": "5 cl",
+                "Citron": "3 cl",
+                "Sockerlag": "3 cl",
+                "Passionsfrukt": "1 st",
+                "Champagne": "4 cl"
             },
-            "description":["Addera alla ingredientser förutom champange till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas", "Servera champangen vid sidan om"]
+            "description":["Addera alla ingredienser förutom champange till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas", "Servera champangen vid sidan om"]
         },
         {   "name": "Espresso Martini",
             "img": "https://img.koket.se/standard-mega/espresso-martini-david-kringlund.jpg.webp",
             "ingredients": {
-                "Vodka": "4cl",
-                "Sockerlag": "2cl",
+                "Vodka": "4 cl",
+                "Sockerlag": "2 cl",
                 "Espresso": "6cl "
             },
-            "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas"]
+            "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas"]
         },
         {   "name": "Mojito",
             "img": "https://folkofolk.se/sites/default/files/2021-06/calvados-mojito_0.jpg",
             "ingredients": {
-                "Ljus Rom": "5cl",
-                "Lime": "3cl",
-                "Sockerlag": "2cl",
+                "Ljus Rom": "5 cl",
+                "Lime": "3 cl",
+                "Sockerlag": "2 cl",
                 "Mynta": "10st ",
-                "Sodavatten": "5cl"
+                "Sodavatten": "5 cl"
             },
-            "description": ["Addera alla ingredientser förutom sodavatten till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is", "Toppa med sodavatten"]
+            "description": ["Addera alla ingredienser förutom sodavatten till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is", "Toppa med sodavatten"]
         },
         {   "name": "Clover Club Cocktail",
             "img": "https://cocktailswithclass.com/wp-content/uploads/2021/11/3-1.jpg.webp",
             "ingredients": {
-                "Gin": "5cl",
-                "Citron": "3cl",
-                "Hallonsockerlag": "2cl",
+                "Gin": "5 cl",
+                "Citron": "3 cl",
+                "Hallonsockerlag": "2 cl",
                 "Äggvita": "1st "
             },
-            "description":  ["Addera alla ingredientser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas"],
+            "description":  ["Addera alla ingredienser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas"],
             "Syrup":["Recept hallonsockerlag. Mixa 2dl sockerlag med 2dl hallon till en slät  puré, sila till en flaska."]
         },
         {   "name": "Pink 75",
             "img": "https://folkofolk.se/sites/default/files/2021-09/pink-75_0.jpg",
             "ingredients": {
-                "Gin": "3cl",
-                "Citron": "1.5cl",
-                "Hallonsockerlag": "1.5cl",
+                "Gin": "3 cl",
+                "Citron": "1.5 cl",
+                "Hallonsockerlag": "1.5 cl",
                 "Champagne": "10cl "
             },
-            "description":["Addera alla ingredientser förutom champange till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas", "Toppa med champange"],
+            "description":["Addera alla ingredienser förutom champange till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas", "Toppa med champange"],
             "Syrup":["Recept hallonsockerlag. Mixa 2dl sockerlag med 2dl hallon till en slät  puré, sila till en flaska."]
         },
         {   "name": "Gin Flip Raspberry",
                 "img": "https://folkofolk.se/sites/default/files/2021-09/herno-gin-flip-raspberry_0.jpg",
                 "ingredients": {
-                    "Gin": "5cl",
-                    "Hallonsockerlag": "3cl",
+                    "Gin": "5 cl",
+                    "Hallonsockerlag": "3 cl",
                     "Ägg": "1st " 
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas"],
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas"],
                 "Syrup":["Recept hallonsockerlag. Mixa 2dl sockerlag med 2dl hallon till en slät  puré, sila till en flaska."]
         },
         {   "name": "Southside",
                 "img": "https://drinkoteket.com/wp-content/uploads/southside-860x860.jpg",
                 "ingredients": {
-                    "Gin": "5cl",
-                    "Lime": "3cl",
-                    "Sockerlag": "2cl",
+                    "Gin": "5 cl",
+                    "Lime": "3 cl",
+                    "Sockerlag": "2 cl",
                     "Mynta": "10st "
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas"]
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas"]
         },
         {   "name": "Garibaldi Sbagliato",
                 "img": "https://nigab.se/wordpress/wp-content/uploads/2018/06/RL_HENDRICKS_Garibaldi_Sbagliato_W1_1480x1024.jpg",
                 "ingredients": {
-                    "Gin": "3cl",
-                    "Campari": "3cl",
-                    "Appelsinjuice": "6cl",
+                    "Gin": "3 cl",
+                    "Campari": "3 cl",
+                    "Appelsinjuice": "6 cl",
                     "Champagne": "10cl " 
                 },
                 "description": ["Fyll på Gin, Campari & Appelsinjuice i ett glas", "Fyll på med is", "Toppa med champange"]
@@ -165,284 +165,284 @@
         {   "name": "Monkey Colada",
                 "img": "https://nigab.se/wordpress/wp-content/uploads/2021/11/monkey_shoulder_colada_drink.jpg",
                 "ingredients": {
-                    "Whiskey": "4cl",
-                    "Ljus Rom": "2cl",
-                    "Kokosmjölk": "6cl",
-                    "Lime": "1cl",
-                    "Sockerlag": "1cl"  
+                    "Whiskey": "4 cl",
+                    "Ljus Rom": "2 cl",
+                    "Kokosmjölk": "6 cl",
+                    "Lime": "1 cl",
+                    "Sockerlag": "1 cl"  
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Sila till ett glas med is"]
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Sila till ett glas med is"]
         },
         {   "name": "Strawberry Daiquiri",
                 "img": "https://nigab.se/wordpress/wp-content/uploads/2021/03/Strawberry_daiquiri_drink.jpg",
                 "ingredients": {
-                    "Ljus Rom": "5cl",
-                    "Lime": "3cl",
-                    "Sockerlag": "2cl",
-                    "Jordgubbar": "3st" 
+                    "Ljus Rom": "5 cl",
+                    "Lime": "3 cl",
+                    "Sockerlag": "2 cl",
+                    "Jordgubbar": "3 st" 
                 },
-                "description": ["Addera alla ingredientser till en mixer", "Tillsätt 10 isbitar", "Mixa tills krämig konsistens", "Häll upp i glas" ]
+                "description": ["Addera alla ingredienser till en mixer", "Tillsätt 10 isbitar", "Mixa tills krämig konsistens", "Häll upp i glas" ]
         },
         {   "name": "Dark n Stormy",
                 "img": "https://nigab.se/wordpress/wp-content/uploads/2021/02/dark_n_stormy_drink.jpg",
                 "ingredients": {
-                    "Mörk Rom": "5cl",
-                    "Lime": "2cl",
-                    "Ginger Beer": "10cl"        
+                    "Mörk Rom": "5 cl",
+                    "Lime": "2 cl",
+                    "Ginger Beer": "10 cl"        
                 },
                 "description": ["Addera Rom & Lime till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is", "Toppa med Ginger Beer"]
         },
         {   "name": "Tom Collins med hallon",
                 "img": "https://img.koket.se/standard-mega/tom-collins-med-hallon.png.webp",
                 "ingredients": {
-                    "Gin": "5cl",
-                    "Citron": "3cl",
-                    "Hallon": "2-4st"        
+                    "Gin": "5 cl",
+                    "Citron": "3 cl",
+                    "Hallon": "2-4 st"        
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is", "Toppa med bubbelvatten" ]
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is", "Toppa med bubbelvatten" ]
         },
         {   "name": "Long island iced tea",
                 "img": "https://img.koket.se/standard-mega/long-island-iced-tea.jpg.webp",
                 "ingredients": {
-                    "Gin": "1cl",
-                    "Tequila": "1cl",
-                    "Ljus Rom": "1cl",
-                    "Appelsinlikör": "1cl",
-                    "Vodka": "1cl",
-                    "Citron": "3cl",
-                    "Sockerlag": "2cl"        
+                    "Gin": "1 cl",
+                    "Tequila": "1 cl",
+                    "Ljus Rom": "1 cl",
+                    "Appelsinlikör": "1 cl",
+                    "Vodka": "1 cl",
+                    "Citron": "3 cl",
+                    "Sockerlag": "2 cl"        
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is", "Toppa med Cocla Cola" ]
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is", "Toppa med Cocla Cola" ]
         },
         {   "name": "Daquiri",
                 "img": "https://img.koket.se/standard-mega/daquiri.jpg.webp",
                 "ingredients": {
-                    "Ljus Rom": "5cl",
-                    "Lime": "3cl",
-                    "Sockerlag": "2cl"        
+                    "Ljus Rom": "5 cl",
+                    "Lime": "3 cl",
+                    "Sockerlag": "2 cl"        
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas "]
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas "]
         },
         {   "name": "Tom Collins",
                 "img": "https://img.koket.se/standard-mega/tom-collins-david-kringlund.jpg.webp",
                 "ingredients": {
-                    "Gin": "5cl",
-                    "Citron": "3cl",
-                    "Sockerlag": "2cl"        
+                    "Gin": "5 cl",
+                    "Citron": "3 cl",
+                    "Sockerlag": "2 cl"        
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is", "Toppa med sodavatten"]
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is", "Toppa med sodavatten"]
         },
         {   "name": "Barbeque Margarita",
                 "img": "https://nigab.se/wordpress/wp-content/uploads/2021/12/BBQMargarita_nigab.jpg",
                 "ingredients": {
-                    "Tequila": "4cl",
-                    "Appelsinlikör": "2.5cl",
-                    "Grillad Lime": "2cl"        
+                    "Tequila": "4 cl",
+                    "Appelsinlikör": "2.5 cl",
+                    "Grillad Lime": "2 cl"        
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is & rimmad saltkant"]
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is & rimmad saltkant"]
         },
         {   "name": "Between the Sheets",
                 "img": "https://nigab.se/wordpress/wp-content/uploads/2021/02/between_the_sheets_drink.jpg",
                 "ingredients": {
-                    "Ljus Rom": "2cl",
-                    "Cognac": "2cl",
-                    "Appelsinlikör": "2cl",
-                    "Citron": "1cl",
-                    "Sockerlag": "1cl"        
+                    "Ljus Rom": "2 cl",
+                    "Cognac": "2 cl",
+                    "Appelsinlikör": "2 cl",
+                    "Citron": "1 cl",
+                    "Sockerlag": "1 cl"        
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas"]
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas"]
         },
         {   "name": "Passion fruit daiquiri",
                 "img": "https://images.squarespace-cdn.com/content/v1/5423e63be4b043d8a3d9c6d7/1621121790982-PKNG7DS2LHVY4O6ISQO0/Passionfruit+Daiquiri.jpg?format=1000w",
                 "ingredients": {
-                    "Ljus Rom": "5cl",
-                    "Campari": "1cl",
-                    "Lime": "2cl",
-                    "Sockerlag": "2cl",
-                    "Passionsfrukt": "1st"        
+                    "Ljus Rom": "5 cl",
+                    "Campari": "1 cl",
+                    "Lime": "2 cl",
+                    "Sockerlag": "2 cl",
+                    "Passionsfrukt": "1 st"        
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas"]
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas"]
         },
         {   "name": "Old Cuban",
                 "img": "https://preview.redd.it/0fdvnz3d1e061.jpg?width=640&crop=smart&auto=webp&s=fcd91b86c18d1956fcaf34c6e36bbe15d4474fc8",
                 "ingredients": {
-                    "Mörk Rom": "5cl",
-                    "Lime": "2cl",
-                    "Sockerlag": "3cl",
-                    "Mynta": "10st",
+                    "Mörk Rom": "5 cl",
+                    "Lime": "2 cl",
+                    "Sockerlag": "3 cl",
+                    "Mynta": "10 st",
                     "Angostura Bitters": "2 droppar",
-                    "Champagne": "10cl"
+                    "Champagne": "10 cl"
                 },
-                "description": ["Addera alla ingredientser förutom champange till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas", "Toppa med champange"]
+                "description": ["Addera alla ingredienser förutom champange till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas", "Toppa med champange"]
         },
         {   "name": "Bee’s Knees",
                 "img": "https://alushlifemanual.com/wp-content/uploads/2021/09/Bees-Knees-Cocktail.jpg",
                 "ingredients": {
-                    "Gin": "5cl",
-                    "Lime": "3cl",
-                    "Honungsvatten": "2cl"
+                    "Gin": "5 cl",
+                    "Lime": "3 cl",
+                    "Honungsvatten": "2 cl"
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas"],
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas"],
                 "Syrup":["Recept Honungsvatten. Mixa 2 delar vatten med 1 del honung, värm upp och mixa tills honungen lösts upp"]
         },
         {   "name": "Amaretto Sour",
                 "img": "https://nigab.se/wordpress/wp-content/uploads/2020/06/drink_amaretto_sour_nigab.jpg",
                 "ingredients": {
-                    "Amaretto": "5cl",
-                    "Lime": "3cl",
-                    "Sockerlag": "2cl",
-                    "Äggvita": "1st"
+                    "Amaretto": "5 cl",
+                    "Lime": "3 cl",
+                    "Sockerlag": "2 cl",
+                    "Äggvita": "1 st"
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas"]
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas"]
         },
         {   "name": "Manhattan",
                 "img": "https://www.usfoods.com/great-food/recipes/honey-vinegar-manhattan-cocktail-recipe/_jcr_content/recipe-header/image.img.jpg/1572361234122.jpg",
                 "ingredients": {
-                    "Whiskey": "4cl",
-                    "Sweet Vermouth": "2cl",
+                    "Whiskey": "4 cl",
+                    "Sweet Vermouth": "2 cl",
                     "Angostura Bitters": "1 droppe"
                 },
-                "description": ["Addera alla ingredientser till ett stort glass", "Addera en stor is bit", "Rör runt med i sked i ca 30 sek", "Sila till ett glas"]
+                "description": ["Addera alla ingredienser till ett stort glass", "Addera en stor is bit", "Rör runt med i sked i ca 30 sek", "Sila till ett glas"]
         },
         {   "name": "Aperol Spritz",
                 "img": "https://media.houseandgarden.co.uk/photos/618944d07a5ec7dd3a8b3885/1:1/w_3392,h_3392,c_limit/stockfood_12488413_xxl_classic_italian_aperol_spritz_cocktail.jpg",
                 "ingredients": {
-                    "Club Soda ": "3cl",
-                    "Aperol": "6cl",
-                    "Prosecco": "9cl"
+                    "Club Soda ": "3 cl",
+                    "Aperol": "6 cl",
+                    "Prosecco": "9 cl"
                 },
-                "description": ["Addera alla ingredientser till ett stort glass fyllt med is"]
+                "description": ["Addera alla ingredienser till ett stort glass fyllt med is"]
         },
         {   "name": "Old Fashioned",
                 "img": "https://assets.epicurious.com/photos/5e41a6d175661800087cc87c/5:4/w_3923,h_3138,c_limit/OldFashioned_HERO_020520_619.jpg",
                 "ingredients": {
-                    "Whiskey": "6cl",
-                    "Sockerlag": "1cl",
+                    "Whiskey": "6 cl",
+                    "Sockerlag": "1 cl",
                     "Angostura Bitters": "4 droppar"
                 },
-                "description": ["Addera alla ingredientser till ett stort glass", "Addera en stor is bit", "Rör runt med i sked i ca 30 sek", "Sila till ett glas med is", "Toppa med apelsinzest "]
+                "description": ["Addera alla ingredienser till ett stort glass", "Addera en stor is bit", "Rör runt med i sked i ca 30 sek", "Sila till ett glas med is", "Toppa med apelsinzest "]
         },
         {   "name": "Negroni",
                 "img": "https://nigab.se/wordpress/wp-content/uploads/2015/12/NEGRONI_nigab_2018-1536x756.jpg",
                 "ingredients": {
-                    "Gin": "2cl",
-                    "Sweet Vermouth": "2cl",
-                    "Campari": "2cl"
+                    "Gin": "2 cl",
+                    "Sweet Vermouth": "2 cl",
+                    "Campari": "2 cl"
                 },
-                "description": ["Addera alla ingredientser till ett stort glass", "Addera en stor is bit", "Rör runt tills kall", "Garnera med apelsin"]
+                "description": ["Addera alla ingredienser till ett stort glass", "Addera en stor is bit", "Rör runt tills kall", "Garnera med apelsin"]
         },
         {   "name": "White Russian",
                 "img": "https://www.mantitlement.com/wp-content/uploads/2020/03/white-russian-feature.jpg",
                 "ingredients": {
-                    "Vodka": "4cl",
-                    "Kahlua": "2cl",
-                    "Vispgrädde": "2cl"
+                    "Vodka": "4 cl",
+                    "Kahlua": "2 cl",
+                    "Vispgrädde": "2 cl"
                 },
-                "description": ["Fyll ett glas med is", "Addera alla ingredientser glaset", "Rör runt tills kall"]
+                "description": ["Fyll ett glas med is", "Addera alla ingredienser glaset", "Rör runt tills kall"]
         },
         {   "name": "Moscow Mule",
                 "img": "https://cocktail-society.com/wp-content/uploads/2021/10/Moscow-Mule-served-in-mug.jpg",
                 "ingredients": {
-                    "Vodka": "5cl",
-                    "Lime": "3cl",
-                    "Ingefärssockerlag": "2cl"
+                    "Vodka": "5 cl",
+                    "Lime": "3 cl",
+                    "Ingefärssockerlag": "2 cl"
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is"],
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is"],
                 "Syrup": ["Recept ingefärssockerlag. Blanda 2dl sockerlag med 0.5dl ingefärsjuice"]
                 
         },
         {   "name": "Caipirinha",
                 "img": "https://img.koket.se/standard-mega/caipirinha-david-kringlund.jpg",
                 "ingredients": {
-                    "Cachaça ": "5cl",
+                    "Cachaça ": "5 cl",
                     "Lime": "6 klyftor",
                     "Strösocker": "1.5tsk"
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Muddra ordenliga", "Fyll shakern med is och skaka tills kall", "Dumpa allt i ett glas"]
+                "description": ["Addera alla ingredienser till en shaker", "Muddra ordenliga", "Fyll shakern med is och skaka tills kall", "Dumpa allt i ett glas"]
         },
         {   "name": "Gimlet",
                 "img": "https://img.koket.se/standard-mega/gimlet-david-kringlund.jpg",
                 "ingredients": {
-                    "Gin ": "5cl",
-                    "Lime": "3cl",
-                    "Sockerlag": "2cl"
+                    "Gin ": "5 cl",
+                    "Lime": "3 cl",
+                    "Sockerlag": "2 cl"
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas "]
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas "]
         },
         {   "name": "Honeysuckle ",
                 "img": "https://i.ytimg.com/vi/tgX5X28zfLk/maxresdefault.jpg",
                 "ingredients": {
-                    "Ljus Lagrad Rom ": "6cl",
-                    "Citron": "3cl",
-                    "Honung": "2cl"
+                    "Ljus Lagrad Rom ": "6 cl",
+                    "Citron": "3 cl",
+                    "Honung": "2 cl"
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas "]
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas "]
         },
         {   "name": "Pamola ",
                 "img": "https://cdn.loveandlemons.com/wp-content/uploads/2020/04/paloma.jpg",
                 "ingredients": {
-                    "Tequila": "5cl",
-                    "Pink grapefruit soda": "10cl",
-                    "Lime": "1cl"
+                    "Tequila": "5 cl",
+                    "Pink grapefruit soda": "10 cl",
+                    "Lime": "1 cl"
                 },
-                "description": ["Addera alla ingredientser till ett glas med is"]
+                "description": ["Addera alla ingredienser till ett glas med is"]
         },
         {   "name": "Whisky Sour Med Salvia ",
                 "img": "https://img.koket.se/standard-mega/whisky-sour-med-salvia.png.webp",
                 "ingredients": {
-                    "Whiskey": "5cl",
-                    "Citron": "3cl",
-                    "Salviasockerlag": "2cl",
-                    "Äggvita": "1st"
+                    "Whiskey": "5 cl",
+                    "Citron": "3 cl",
+                    "Salviasockerlag": "2 cl",
+                    "Äggvita": "1 st"
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas "]
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas "]
         },
         {   "name": "Mexican Mule ",
                 "img": "https://fountainavenuekitchen.com/wp-content/uploads/2021/04/mexican-moscow-mule-hp.jpg",
                 "ingredients": {
-                    "Tequila": "5cl",
-                    "Lime": "2cl",
+                    "Tequila": "5 cl",
+                    "Lime": "2 cl",
                     "Agavesirap": "5ml",
-                    "Ginger Beer": "10cl"
+                    "Ginger Beer": "10 cl"
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is", "Toppa med Ginger Beer"]
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is", "Toppa med Ginger Beer"]
         },
         {   "name": "Tequila Sunrise",
                 "img": "https://drinkar.nu/wp-content/uploads/2019/08/Tequila-sunrise.jpg",
                 "ingredients": {
-                    "Tequila": "5cl",
-                    "Apelsin": "10cl",
-                    "Grenadine": "2cl"
+                    "Tequila": "5 cl",
+                    "Apelsin": "10 cl",
+                    "Grenadine": "2 cl"
                 },
                 "description": ["Addera is, Tequila och apelsinjuice till ett glas", "Häll i grenadine"]
         },
         {   "name": "Jalapeño Margarita",
                 "img": "https://www.wellplated.com/wp-content/uploads/2017/05/Spicy-Jalapeno-Margarita-1-600x780.jpg",
                 "ingredients": {
-                    "Tequila": "6cl",
-                    "Lime": "4cl",
-                    "Apelsin": "1.5cl",
-                    "Agavesirap": "2cl",
-                    "Jalapeño": "0.5st"
+                    "Tequila": "6 cl",
+                    "Lime": "4 cl",
+                    "Apelsin": "1.5 cl",
+                    "Agavesirap": "2 cl",
+                    "Jalapeño": "0.5 st"
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is & rimmad saltkant"]
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is & rimmad saltkant"]
         },
         {   "name": "Remedy",
                 "img": "https://folkofolk.se/sites/default/files/2019-07/remedy_bottle_0.png",
                 "ingredients": {
-                    "Vodka": "3cl",
-                    "Rökig Whisky": "1cl",
-                    "Citron": "2cl",
-                    "Honungsvatten": "2cl",
+                    "Vodka": "3 cl",
+                    "Rökig Whisky": "1 cl",
+                    "Citron": "2 cl",
+                    "Honungsvatten": "2 cl",
                     "Ingefära": "1msk"
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is"],
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is"],
                 "Syrup":["Recept Honungsvatten. Mixa 2 delar vatten med 1 del honung, värm upp och mixa tills honungen lösts upp"]
         },
         {   "name": "Pom-Blood-Orange Old Fashioned",
                 "img": "https://www.liquor.com/thmb/2lBQLXg0ehbK5RsEGE_QwIkIOHs=/1200x628/filters:fill(auto,1)/pom-blood-orange-old-fashioned-1200x628-email-98508e290c6e42fbaf488b0749de5497.jpg",
                 "ingredients": {
-                    "Vodka": "6cl",
+                    "Vodka": "6 cl",
                     "Blodapelsin skal": "5cm",
                     "Granatäpple": "1tsk",
                     "Socker": "1tsk",
@@ -453,110 +453,110 @@
         {   "name": "Banker’s Lunch",
                 "img": "https://www.liquor.com/thmb/2LBsnfeNyI-6FJSvWcCL3Yodjq0=/720x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bankers-lunch-720x720-primary-c5b1115b328241d4b127b244122a98db.jpg",
                 "ingredients": {
-                    "Vodka": "4cl",
-                    "Torr Vermouth": "1.5cl",
-                    "Apelsinlikör": "1.5cl",
-                    "Grapefruitjuice": "4cl",
+                    "Vodka": "4 cl",
+                    "Torr Vermouth": "1.5 cl",
+                    "Apelsinlikör": "1.5 cl",
+                    "Grapefruitjuice": "4 cl",
                     "Angostura bitters": "2 droppar"
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is"]
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is"]
         },
         {   "name": "Ruby",
                 "img": "https://cdn.diffords.com/contrib/stock-images/2020/11/5faec1a82d08c.jpg",
                 "ingredients": {
-                    "Vodka": "4cl",
-                    "Fläderlikör": "2cl",
-                    "Aperol": "1cl",
-                    "Citron": "2cl",
-                    "Röd Grapefruitjuce": "2cl",
-                    "Äggvita": "1st"
+                    "Vodka": "4 cl",
+                    "Fläderlikör": "2 cl",
+                    "Aperol": "1 cl",
+                    "Citron": "2 cl",
+                    "Röd Grapefruitjuce": "2 cl",
+                    "Äggvita": "1 st"
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit" , "Dubbelsila till ett glas"]
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit" , "Dubbelsila till ett glas"]
         },
         {   "name": "Very Sexy Martini",
                 "img": "https://www.liquor.com/thmb/sDeZFeLCrukrKCv-3VIreSwW2eo=/720x720/smart/filters:no_upscale()/very-sexy-martini-720x720-primary-b1212ebf73f54f898a56f7f0b60c0a34.jpg",
                 "ingredients": {
-                    "Vodka": "5cl",
-                    "Lime": "2cl",
-                    "Sockerlag": "2cl",
-                    "Hallon": "3st",
-                    "Mynta": "5st",
-                    "Champange": "5cl"
+                    "Vodka": "5 cl",
+                    "Lime": "2 cl",
+                    "Sockerlag": "2 cl",
+                    "Hallon": "3 st",
+                    "Mynta": "5 st",
+                    "Champange": "5 cl"
                 },
                 "description": ["Addera hallon, mynta och sockerlag till en shaker", "Muddra ordenterligt", "Addera vodka och lime till shakern", "Skaka ordenterligt med is", "Dubbelsila till ett glas", "Toppa med champange"]
         },
         {   "name": "Lynchburg Lemonade",
                 "img": "https://vinepair.com/wp-content/uploads/2021/06/lynchburglemonade_social.jpg",
                 "ingredients": {
-                    "Whiskey": "3cl",
-                    "Apelsinlikör": "2cl",
-                    "Citron": "2cl",
-                    "Sockerlag": "2cl",
-                    "Sprite": "10cl"
+                    "Whiskey": "3 cl",
+                    "Apelsinlikör": "2 cl",
+                    "Citron": "2 cl",
+                    "Sockerlag": "2 cl",
+                    "Sprite": "10 cl"
                 },
-                "description": ["Addera alla ingredientser förutom sprite till en shaker", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is", "Toppa med sprite"]
+                "description": ["Addera alla ingredienser förutom sprite till en shaker", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is", "Toppa med sprite"]
         },
         {   "name": "Penicillin",
                 "img": "https://folkofolk.se/sites/default/files/2021-02/penicillin.jpg",
                 "ingredients": {
-                    "Whiskey": "5cl",
-                    "Citron": "3cl",
-                    "Ingfära och honungsockerlag": "2.5cl",
-                    "Islay Whiskey": "1cl"
+                    "Whiskey": "5 cl",
+                    "Citron": "3 cl",
+                    "Ingfära och honungsockerlag": "2.5 cl",
+                    "Islay Whiskey": "1 cl"
                 },
-                "description": ["Addera alla ingredientser till en shaker förutom Islay Whiskey", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is", "Toppa med Islay Whiskey"],
+                "description": ["Addera alla ingredienser till en shaker förutom Islay Whiskey", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is", "Toppa med Islay Whiskey"],
                 "Syrup": ["Ingfära och honungsockerlag recept. Blanda 1dl honung, jucie från 10cm ingefära och en skvätt vatten i en kastrul. Värmupp och rörrunt tills alla ingredienserna löst upp sig"]
         },
         {   "name": "John Collins",
                 "img": "https://www.thespruceeats.com/thmb/Dg33yfzjKFLjOMSAvdR0Caq1Vss=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/john-collins-whiskey-highball-recipe-759714-hero-01-16a85b92c1fa41ba9d41d83eb2fdce06.jpg",
                 "ingredients": {
-                    "Whiskey": "5cl",
-                    "Citron": "3cl",
-                    "Sockerlag": "2cl",
-                    "Sodavatten": "7cl"
+                    "Whiskey": "5 cl",
+                    "Citron": "3 cl",
+                    "Sockerlag": "2 cl",
+                    "Sodavatten": "7 cl"
                 },
-                "description": ["Addera alla ingredientser förutom sodavatten till en shaker", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is", "Toppa med sodavatten"]
+                "description": ["Addera alla ingredienser förutom sodavatten till en shaker", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is", "Toppa med sodavatten"]
         },
         {   "name": "Whiskey Smash",
                 "img": "https://www.acouplecooks.com/wp-content/uploads/2019/08/Whiskey-Smash-005.jpg",
                 "ingredients": {
-                    "Whiskey": "5cl",
-                    "Citron": "3cl",
-                    "Sockerlag": "2cl",
-                    "Mynta": "5st",
-                    "Sodavatten": "5-10cl"
+                    "Whiskey": "5 cl",
+                    "Citron": "3 cl",
+                    "Sockerlag": "2 cl",
+                    "Mynta": "5 st",
+                    "Sodavatten": "5-10 cl"
                 },
-                "description": ["Addera alla ingredientser förutom sodavatten till en shaker", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is", "Toppa med sodavatten"]
+                "description": ["Addera alla ingredienser förutom sodavatten till en shaker", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is", "Toppa med sodavatten"]
         },
         {   "name": "Boulevardier",
                 "img": "https://assets.bonappetit.com/photos/5a3839c75468684549cf909f/4:3/w_1828,h_1371,c_limit/boulevardier.png",
                 "ingredients": {
-                    "Whiskey": "4.5cl",
-                    "Sweet Vermouth": "3cl",
-                    "Campari": "3cl",
-                    "Apelsinzest": "1st"
+                    "Whiskey": "4.5 cl",
+                    "Sweet Vermouth": "3 cl",
+                    "Campari": "3 cl",
+                    "Apelsinze st": "1 st"
                 },
-                "description": ["Addera alla ingredientser förutom apelsin till ett stort glas", "Rörrunt med en stor isbit tills kall", "Sila till ett glas med en stor isbit", "Toppa med apelsinzest"]
+                "description": ["Addera alla ingredienser förutom apelsin till ett stort glas", "Rörrunt med en stor isbit tills kall", "Sila till ett glas med en stor isbit", "Toppa med apelsinze st"]
         },
         {   "name": "Gold Rush",
                 "img": "https://static01.nyt.com/images/2021/03/31/dining/25honey1/merlin_185308143_682a1f6e-5382-4550-a5df-be693a7853ab-articleLarge.jpg",
                 "ingredients": {
-                    "Whiskey": "6cl",
-                    "Citron": "3cl",
-                    "Honungssirap": "2cl"
+                    "Whiskey": "6 cl",
+                    "Citron": "3 cl",
+                    "Honungssirap": "2 cl"
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is"],
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is"],
                 "Syrup": ["Honungssirap recept. Blanda 1 del vatten och 1 del honung i en kastrull, värmupp och rörrunt tills honungen löstsupp."]
         },
         {   "name": "New York Sour",
                 "img": "https://www.acouplecooks.com/wp-content/uploads/2020/04/New-York-Sour-013.jpg",
                 "ingredients": {
-                    "Whiskey": "6cl",
-                    "Citron": "3cl",
-                    "Sockerlag": "1.5cl",
-                    "Torrt Rödvin": "3cl"
+                    "Whiskey": "6 cl",
+                    "Citron": "3 cl",
+                    "Sockerlag": "1.5 cl",
+                    "Torrt Rödvin": "3 cl"
                 },
-                "description": ["Addera alla ingredientser till en shaker förutom rödvinet", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is", "Toppa med rödvin"]
+                "description": ["Addera alla ingredienser till en shaker förutom rödvinet", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is", "Toppa med rödvin"]
         }
     ]
 }
