@@ -80,7 +80,7 @@
          "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is"]
         },
         {   "name": "Pornstar Martini",
-            "img": "https://img.koket.se/standard-mega/pornstar-martini.jpg",
+            "img": "https://www.thecocktaildb.com/images/media/drink/xjhjdf1630406071.jpg",
             "ingredients": {
                 "Vaniljvodka": "5cl",
                 "Citron": "3cl",
@@ -498,11 +498,12 @@
         {   "name": "Penicillin",
                 "img": "https://folkofolk.se/sites/default/files/2021-02/penicillin.jpg",
                 "ingredients": {
-                    "Rökig Whiskey": "5cl",
-                    "Citron": "2.5cl",
-                    "Ingfära och honungsockerlag": "2.5cl"
+                    "Whiskey": "5cl",
+                    "Citron": "3cl",
+                    "Ingfära och honungsockerlag": "2.5cl",
+                    "Islay Whiskey": "1cl"
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is"],
+                "description": ["Addera alla ingredientser till en shaker förutom Islay Whiskey", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is", "Toppa med Islay Whiskey"],
                 "Syrup": ["Ingfära och honungsockerlag recept. Blanda 1dl honung, jucie från 10cm ingefära och en skvätt vatten i en kastrul. Värmupp och rörrunt tills alla ingredienserna löst upp sig"]
         },
         {   "name": "John Collins",
