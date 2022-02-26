@@ -15,7 +15,7 @@
         },
         {
             "name": "Gin Basil Smash",
-            "img": "https://assets-prd.punchdrink.com/wp-content/uploads/2014/06/23154856/Recipe-Article-Modern-Classic-Gin-Basil-Smash-Cocktail-Recipe.jpg",
+            "img": "https://www.acouplecooks.com/wp-content/uploads/2021/05/Gin-Basil-Smash-001.jpg",
             "ingredients": {
                 "Gin": "5cl",
                 "Citron": "3cl",
@@ -80,7 +80,7 @@
          "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is"]
         },
         {   "name": "Pornstar Martini",
-            "img": "https://www.thecocktaildb.com/images/media/drink/xjhjdf1630406071.jpg",
+            "img": "https://img.koket.se/standard-mega/pornstar-martini.jpg",
             "ingredients": {
                 "Vaniljvodka": "5cl",
                 "Citron": "3cl",
@@ -133,7 +133,7 @@
             "Syrup":["Recept hallonsockerlag. Mixa 2dl sockerlag med 2dl hallon till en slät  puré, sila till en flaska."]
         },
         {   "name": "Gin Flip Raspberry",
-                "img": "https://folkofolk.se/sites/default/files/2021-09/pink-75_0.jpg",
+                "img": "https://folkofolk.se/sites/default/files/2021-09/herno-gin-flip-raspberry_0.jpg",
                 "ingredients": {
                     "Gin": "5cl",
                     "Hallonsockerlag": "3cl",
@@ -296,7 +296,7 @@
                 "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas"]
         },
         {   "name": "Manhattan",
-                "img": "https://www.knobcreek.com/sites/default/files/2018-06/thumb__0006_8909_KC_Perfect_Manhattan-4774-1.jpg",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQm3XlEScrz0aEPhSxaPLc5w4vdyw1GZY4ng&usqp=CAU",
                 "ingredients": {
                     "Whiskey": "4cl",
                     "Sweet Vermouth": "2cl",
@@ -314,7 +314,7 @@
                 "description": ["Addera alla ingredientser till ett stort glass fyllt med is"]
         },
         {   "name": "Old Fashioned",
-                "img": "https://www.liquor.com/thmb/lavmUGaMMriZPSxfHsPnyK15bSY=/720x720/filters:fill(auto,1)/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__05__08113350__bourbon-old-fashioned-720x720-recipe-ade6f7780c304999be3577e565c9bcdd.jpg",
+                "img": "https://assets.epicurious.com/photos/5e41a6d175661800087cc87c/5:4/w_3923,h_3138,c_limit/OldFashioned_HERO_020520_619.jpg",
                 "ingredients": {
                     "Whiskey": "6cl",
                     "Sockerlag": "1cl",
@@ -361,7 +361,7 @@
                 "description": ["Addera alla ingredientser till en shaker", "Muddra ordenliga", "Fyll shakern med is och skaka tills kall", "Dumpa allt i ett glas"]
         },
         {   "name": "Gimlet",
-                "img": "https://images.absolutdrinks.com/drink-images/Raw/Absolut/7e02b14d-1d45-4ad2-b75c-900e8e5859d5.jpg?imwidth=500",
+                "img": "https://img.koket.se/standard-mega/gimlet-david-kringlund.jpg",
                 "ingredients": {
                     "Gin ": "5cl",
                     "Lime": "3cl",
@@ -400,7 +400,7 @@
         {   "name": "Mexican Mule ",
                 "img": "https://fountainavenuekitchen.com/wp-content/uploads/2021/04/mexican-moscow-mule-hp.jpg",
                 "ingredients": {
-                    "Tequia": "5cl",
+                    "Tequila": "5cl",
                     "Lime": "2cl",
                     "Agavesirap": "5ml",
                     "Ginger Beer": "10cl"
@@ -410,7 +410,7 @@
         {   "name": "Tequila Sunrise",
                 "img": "https://drinkar.nu/wp-content/uploads/2019/08/Tequila-sunrise.jpg",
                 "ingredients": {
-                    "Tequia": "5cl",
+                    "Tequila": "5cl",
                     "Apelsin": "10cl",
                     "Grenadine": "2cl"
                 },
@@ -419,7 +419,7 @@
         {   "name": "Jalapeño Margarita",
                 "img": "https://www.wellplated.com/wp-content/uploads/2017/05/Spicy-Jalapeno-Margarita-1-600x780.jpg",
                 "ingredients": {
-                    "Tequia": "6cl",
+                    "Tequila": "6cl",
                     "Lime": "4cl",
                     "Apelsin": "1.5cl",
                     "Agavesirap": "2cl",
@@ -483,6 +483,78 @@
                     "Champange": "5cl"
                 },
                 "description": ["Addera hallon, mynta och sockerlag till en shaker", "Muddra ordenterligt", "Addera vodka och lime till shakern", "Skaka ordenterligt med is", "Dubbelsila till ett glas", "Toppa med champange"]
+        },
+        {   "name": "Lynchburg Lemonade",
+                "img": "https://vinepair.com/wp-content/uploads/2021/06/lynchburglemonade_social.jpg",
+                "ingredients": {
+                    "Whiskey": "3cl",
+                    "Apelsinlikör": "2cl",
+                    "Citron": "2cl",
+                    "Sockerlag": "2cl",
+                    "Sprite": "10cl"
+                },
+                "description": ["Addera alla ingredientser förutom sprite till en shaker", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is", "Toppa med sprite"]
+        },
+        {   "name": "Penicillin",
+                "img": "https://folkofolk.se/sites/default/files/2021-02/penicillin.jpg",
+                "ingredients": {
+                    "Rökig Whiskey": "5cl",
+                    "Citron": "2.5cl",
+                    "Ingfära och honungsockerlag": "2.5cl"
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is"],
+                "Syrup": ["Ingfära och honungsockerlag recept. Blanda 1dl honung, jucie från 10cm ingefära och en skvätt vatten i en kastrul. Värmupp och rörrunt tills alla ingredienserna löst upp sig"]
+        },
+        {   "name": "John Collins",
+                "img": "https://www.thespruceeats.com/thmb/Dg33yfzjKFLjOMSAvdR0Caq1Vss=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/john-collins-whiskey-highball-recipe-759714-hero-01-16a85b92c1fa41ba9d41d83eb2fdce06.jpg",
+                "ingredients": {
+                    "Whiskey": "5cl",
+                    "Citron": "3cl",
+                    "Sockerlag": "2cl",
+                    "Sodavatten": "7cl"
+                },
+                "description": ["Addera alla ingredientser förutom sodavatten till en shaker", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is", "Toppa med sodavatten"]
+        },
+        {   "name": "Whiskey Smash",
+                "img": "https://www.acouplecooks.com/wp-content/uploads/2019/08/Whiskey-Smash-005.jpg",
+                "ingredients": {
+                    "Whiskey": "5cl",
+                    "Citron": "3cl",
+                    "Sockerlag": "2cl",
+                    "Mynta": "5st",
+                    "Sodavatten": "5-10cl"
+                },
+                "description": ["Addera alla ingredientser förutom sodavatten till en shaker", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is", "Toppa med sodavatten"]
+        },
+        {   "name": "Boulevardier",
+                "img": "https://assets.bonappetit.com/photos/5a3839c75468684549cf909f/4:3/w_1828,h_1371,c_limit/boulevardier.png",
+                "ingredients": {
+                    "Whiskey": "4.5cl",
+                    "Sweet Vermouth": "3cl",
+                    "Campari": "3cl",
+                    "Apelsinzest": "1st"
+                },
+                "description": ["Addera alla ingredientser förutom apelsin till ett stort glas", "Rörrunt med en stor isbit tills kall", "Sila till ett glas med en stor isbit", "Toppa med apelsinzest"]
+        },
+        {   "name": "Gold Rush",
+                "img": "https://static01.nyt.com/images/2021/03/31/dining/25honey1/merlin_185308143_682a1f6e-5382-4550-a5df-be693a7853ab-articleLarge.jpg",
+                "ingredients": {
+                    "Whiskey": "6cl",
+                    "Citron": "3cl",
+                    "Honungssirap": "2cl"
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is"],
+                "Syrup": ["Honungssirap recept. Blanda 1 del vatten och 1 del honung i en kastrull, värmupp och rörrunt tills honungen löstsupp."]
+        },
+        {   "name": "New York Sour",
+                "img": "https://www.acouplecooks.com/wp-content/uploads/2020/04/New-York-Sour-013.jpg",
+                "ingredients": {
+                    "Whiskey": "6cl",
+                    "Citron": "3cl",
+                    "Sockerlag": "1.5cl",
+                    "Torrt Rödvin": "3cl"
+                },
+                "description": ["Addera alla ingredientser till en shaker förutom rödvinet", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is", "Toppa med rödvin"]
         }
     ]
 }
