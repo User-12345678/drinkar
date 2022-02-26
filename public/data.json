@@ -4,7 +4,7 @@
     "drinks": [
         {
             "name": "Gin Gin Mule",
-            "img": "https://cdn.shopify.com/s/files/1/1216/2612/files/Untitled_design_8.png?v=1602184839",
+            "img": "https://www.coqtailmilano.com/wp-content/uploads/2021/04/Ricetta-London-Mule-Gin-Gin-Mule-Coqtail-Milano.jpg",
             "ingredients": {
                 "Gin": "5cl",
                 "Lime": "2cl",
@@ -296,7 +296,7 @@
                 "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas"]
         },
         {   "name": "Manhattan",
-                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQm3XlEScrz0aEPhSxaPLc5w4vdyw1GZY4ng&usqp=CAU",
+                "img": "https://www.usfoods.com/great-food/recipes/honey-vinegar-manhattan-cocktail-recipe/_jcr_content/recipe-header/image.img.jpg/1572361234122.jpg",
                 "ingredients": {
                     "Whiskey": "4cl",
                     "Sweet Vermouth": "2cl",
@@ -341,7 +341,7 @@
                 "description": ["Fyll ett glas med is", "Addera alla ingredientser glaset", "Rör runt tills kall"]
         },
         {   "name": "Moscow Mule",
-                "img": "https://www.thespruceeats.com/thmb/XJeTzWlEoWXXRO1_wtYP-jYKSHE=/3845x3845/smart/filters:no_upscale()/moscow-mule-recipe-759741-hero-01-8745d4ade7a94c4bbe0542fe0ab9701e.jpg",
+                "img": "https://cocktail-society.com/wp-content/uploads/2021/10/Moscow-Mule-served-in-mug.jpg",
                 "ingredients": {
                     "Vodka": "5cl",
                     "Lime": "3cl",
