@@ -433,10 +433,11 @@
                     "Vodka": "3cl",
                     "Rökig Whisky": "1cl",
                     "Citron": "2cl",
-                    "Honung": "2cl",
-                    "Ingefära": "2 skivor"
+                    "Honungsvatten": "2cl",
+                    "Ingefära": "1msk"
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is"]
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is"],
+                "Syrup":["Recept Honungsvatten. Mixa 2 delar vatten med 1 del honung, värm upp och mixa tills honungen lösts upp"]
         },
         {   "name": "Pom-Blood-Orange Old Fashioned",
                 "img": "https://www.liquor.com/thmb/2lBQLXg0ehbK5RsEGE_QwIkIOHs=/1200x628/filters:fill(auto,1)/pom-blood-orange-old-fashioned-1200x628-email-98508e290c6e42fbaf488b0749de5497.jpg",
