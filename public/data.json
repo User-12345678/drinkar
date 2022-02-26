@@ -118,7 +118,8 @@
                 "Hallonsockerlag": "2cl",
                 "Äggvita": "1st "
             },
-            "description":  ["Addera alla ingredientser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas"]
+            "description":  ["Addera alla ingredientser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas"],
+            "Syrup":["Recept hallonsockerlag. Mixa 2dl sockerlag med 2dl hallon till en slät  puré, sila till en flaska."]
         },
         {   "name": "Pink 75",
             "img": "https://folkofolk.se/sites/default/files/2021-09/pink-75_0.jpg",
@@ -128,7 +129,8 @@
                 "Hallonsockerlag": "1.5cl",
                 "Champagne": "10cl "
             },
-            "description":["Addera alla ingredientser förutom champange till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas", "Toppa med champange"]
+            "description":["Addera alla ingredientser förutom champange till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas", "Toppa med champange"],
+            "Syrup":["Recept hallonsockerlag. Mixa 2dl sockerlag med 2dl hallon till en slät  puré, sila till en flaska."]
         },
         {   "name": "Gin Flip Raspberry",
                 "img": "https://folkofolk.se/sites/default/files/2021-09/pink-75_0.jpg",
@@ -137,7 +139,8 @@
                     "Hallonsockerlag": "3cl",
                     "Ägg": "1st " 
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas"]
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas"],
+                "Syrup":["Recept hallonsockerlag. Mixa 2dl sockerlag med 2dl hallon till en slät  puré, sila till en flaska."]
         },
         {   "name": "Southside",
                 "img": "https://drinkoteket.com/wp-content/uploads/southside-860x860.jpg",
@@ -277,9 +280,10 @@
                 "ingredients": {
                     "Gin": "5cl",
                     "Lime": "3cl",
-                    "Honung": "2cl"
+                    "Honungsvatten": "2cl"
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas"]
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas"],
+                "Syrup":["Recept Honungsvatten. Mixa 2 delar vatten med 1 del honung, värm upp och mixa tills honungen lösts upp"]
         },
         {   "name": "Amaretto Sour",
                 "img": "https://nigab.se/wordpress/wp-content/uploads/2020/06/drink_amaretto_sour_nigab.jpg",
@@ -343,7 +347,9 @@
                     "Lime": "3cl",
                     "Ingefärssockerlag": "2cl"
                 },
-                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is"]
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is"],
+                "Syrup": ["Recept ingefärssockerlag. Blanda 2dl sockerlag med 0.5dl ingefärsjuice"]
+                
         },
         {   "name": "Caipirinha",
                 "img": "https://img.koket.se/standard-mega/caipirinha-david-kringlund.jpg",
@@ -478,11 +484,6 @@
                 },
                 "description": ["Addera hallon, mynta och sockerlag till en shaker", "Muddra ordenterligt", "Addera vodka och lime till shakern", "Skaka ordenterligt med is", "Dubbelsila till ett glas", "Toppa med champange"]
         }
-
-
-
     ]
-
-
 }
 
