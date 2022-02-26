@@ -390,7 +390,95 @@
                     "Äggvita": "1st"
                 },
                 "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas "]
+        },
+        {   "name": "Mexican Mule ",
+                "img": "https://fountainavenuekitchen.com/wp-content/uploads/2021/04/mexican-moscow-mule-hp.jpg",
+                "ingredients": {
+                    "Tequia": "5cl",
+                    "Lime": "2cl",
+                    "Agavesirap": "5ml",
+                    "Ginger Beer": "10cl"
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is", "Toppa med Ginger Beer"]
+        },
+        {   "name": "Tequila Sunrise",
+                "img": "https://drinkar.nu/wp-content/uploads/2019/08/Tequila-sunrise.jpg",
+                "ingredients": {
+                    "Tequia": "5cl",
+                    "Apelsin": "10cl",
+                    "Grenadine": "2cl"
+                },
+                "description": ["Addera is, Tequila och apelsinjuice till ett glas", "Häll i grenadine"]
+        },
+        {   "name": "Jalapeño Margarita",
+                "img": "https://www.wellplated.com/wp-content/uploads/2017/05/Spicy-Jalapeno-Margarita-1-600x780.jpg",
+                "ingredients": {
+                    "Tequia": "6cl",
+                    "Lime": "4cl",
+                    "Apelsin": "1.5cl",
+                    "Agavesirap": "2cl",
+                    "Jalapeño": "0.5st"
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is & rimmad saltkant"]
+        },
+        {   "name": "Remedy",
+                "img": "https://folkofolk.se/sites/default/files/2019-07/remedy_bottle_0.png",
+                "ingredients": {
+                    "Vodka": "3cl",
+                    "Rökig Whisky": "1cl",
+                    "Citron": "2cl",
+                    "Honung": "2cl",
+                    "Ingefära": "2 skivor"
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is"]
+        },
+        {   "name": "Pom-Blood-Orange Old Fashioned",
+                "img": "https://www.liquor.com/thmb/2lBQLXg0ehbK5RsEGE_QwIkIOHs=/1200x628/filters:fill(auto,1)/pom-blood-orange-old-fashioned-1200x628-email-98508e290c6e42fbaf488b0749de5497.jpg",
+                "ingredients": {
+                    "Vodka": "6cl",
+                    "Blodapelsin skal": "5cm",
+                    "Granatäpple": "1tsk",
+                    "Socker": "1tsk",
+                    "Angostura bitters": "2 droppar"
+                },
+                "description": ["Addera blodapesin skal, granatäpple, socker och angustura bitter till en skaker", "Muddra försiktigt" ,"Addera vodkas och skaka ordentligt med is", "Dubbelsila till ett glas med is"]
+        },
+        {   "name": "Banker’s Lunch",
+                "img": "https://www.liquor.com/thmb/2LBsnfeNyI-6FJSvWcCL3Yodjq0=/720x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bankers-lunch-720x720-primary-c5b1115b328241d4b127b244122a98db.jpg",
+                "ingredients": {
+                    "Vodka": "4cl",
+                    "Torr Vermouth": "1.5cl",
+                    "Apelsinlikör": "1.5cl",
+                    "Grapefruitjuice": "4cl",
+                    "Angostura bitters": "2 droppar"
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is"]
+        },
+        {   "name": "Ruby",
+                "img": "https://cdn.diffords.com/contrib/stock-images/2020/11/5faec1a82d08c.jpg",
+                "ingredients": {
+                    "Vodka": "4cl",
+                    "Fläderlikör": "2cl",
+                    "Aperol": "1cl",
+                    "Citron": "2cl",
+                    "Röd Grapefruitjuce": "2cl",
+                    "Äggvita": "1st"
+                },
+                "description": ["Addera alla ingredientser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit" , "Dubbelsila till ett glas"]
+        },
+        {   "name": "Very Sexy Martini",
+                "img": "https://www.liquor.com/thmb/sDeZFeLCrukrKCv-3VIreSwW2eo=/720x720/smart/filters:no_upscale()/very-sexy-martini-720x720-primary-b1212ebf73f54f898a56f7f0b60c0a34.jpg",
+                "ingredients": {
+                    "Vodka": "5cl",
+                    "Lime": "2cl",
+                    "Sockerlag": "2cl",
+                    "Hallon": "3st",
+                    "Mynta": "5st",
+                    "Champange": "5cl"
+                },
+                "description": ["Addera hallon, mynta och sockerlag till en shaker", "Muddra ordenterligt", "Addera vodka och lime till shakern", "Skaka ordenterligt med is", "Dubbelsila till ett glas", "Toppa med champange"]
         }
+
 
 
     ]
