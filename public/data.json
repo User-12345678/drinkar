@@ -433,7 +433,7 @@
                     "Vodka": "3 cl",
                     "Rökig Whisky": "1 cl",
                     "Citron": "2 cl",
-                    "Honungsvatten": "2 cl",
+                    "Honungssirap": "2 cl",
                     "Ingefära": "1msk"
                 },
                 "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is"],
@@ -505,7 +505,7 @@
                     "Islay Whiskey": "1 cl"
                 },
                 "description": ["Addera alla ingredienser till en shaker förutom Islay Whiskey", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is", "Toppa med Islay Whiskey"],
-                "Syrup": ["Ingfära och honungsockerlag recept. Blanda 1dl honung, jucie från 10cm ingefära och en skvätt vatten i en kastrul. Värmupp och rörrunt tills alla ingredienserna löst upp sig"]
+                "Syrup": ["Ingfära och honungsockerlag recept. Blanda 1dl honung, 3cl ingefärsjuice och en skvätt vatten i en kastrul. Värmupp och rörrunt tills alla ingredienserna löst upp sig"]
         },
         {   "name": "John Collins",
                 "img": "https://www.thespruceeats.com/thmb/Dg33yfzjKFLjOMSAvdR0Caq1Vss=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/john-collins-whiskey-highball-recipe-759714-hero-01-16a85b92c1fa41ba9d41d83eb2fdce06.jpg",
