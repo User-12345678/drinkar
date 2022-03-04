@@ -88,7 +88,7 @@
                 "Passionsfrukt": "1 st",
                 "Champagne": "4 cl"
             },
-            "description":["Addera alla ingredienser förutom champange till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas", "Servera champangen vid sidan om"]
+            "description":["Addera alla ingredienser förutom champange till en shaker","Mixa gärna med en stavmixer i 5 sekunder" ,"Skaka ordentligt med is", "Dubbelsila till ett glas", "Servera champangen vid sidan om"]
         },
         {   "name": "Espresso Martini",
             "img": "https://img.koket.se/standard-mega/espresso-martini-david-kringlund.jpg.webp",
@@ -261,7 +261,7 @@
                     "Sockerlag": "2 cl",
                     "Passionsfrukt": "1 st"        
                 },
-                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas"]
+                "description": ["Addera alla ingredienser till en shaker","Mixa gärna med en stavmixer i 5 sekunder", "Skaka ordentligt med is", "Dubbelsila till ett glas"]
         },
         {   "name": "Old Cuban",
                 "img": "https://preview.redd.it/0fdvnz3d1e061.jpg?width=640&crop=smart&auto=webp&s=fcd91b86c18d1956fcaf34c6e36bbe15d4474fc8",
