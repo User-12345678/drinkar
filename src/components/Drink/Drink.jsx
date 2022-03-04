@@ -2,6 +2,7 @@ import React,{useState} from 'react'
 import Ingredients from "../Ingredients/Ingredients"
 import "./Drink.css"
 import Description from '../Description/Description';
+import { Rating } from '../Rating/Rating';
 
 
 export default function Drink(props) {
@@ -17,6 +18,7 @@ export default function Drink(props) {
             <p className='drinkName'>{drink.name }</p>
             <img src={drink.img } alt={drink.name}/>
             <Ingredients ingredient={drink.ingredients} />
+            <Rating name = {drink.name} />
             { showDescription?  <Description description={drink.description} syrup={drink.Syrup} className='description' /> : null }
             <div className="buttonHolder">
             { !showDescription && drink.description ? <button className='drinkButton'  onClick={() => setShow(true)}> Visa mer info</button> : null}

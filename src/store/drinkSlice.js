@@ -1,9 +1,11 @@
 import { createSlice, createAsyncThunk, createSelector } from '@reduxjs/toolkit';
+import {firebaseConfig} from '../firebase';
+
 
 export const loadDrinks = createAsyncThunk(
     'myDrinks/loadDrinks',
-    async() => {
-        const data = await fetch("data.json",{
+    async() => {  
+           const data = await fetch(`${firebaseConfig.databaseURL}/drinks.json`,{
             headers : { 
               'Content-Type': 'application/json',
               'Accept': 'application/json'
@@ -16,7 +18,7 @@ export const loadDrinks = createAsyncThunk(
 export const drinkSlice = createSlice({
     name: 'myDrinks',
     initialState: {
-        drinks: [{}],
+        drinks: [],
         drinksToShow: [],
         error: false,
         isLoading: false,
@@ -63,8 +65,9 @@ export default drinkSlice.reducer;
 export const selectFilterDrinks = createSelector(
     [ selectAllDrinks, selectFilter ], 
     (drinks, drinksFilter) => {
-        if(drinks.drinks && drinksFilter.length){
-          const drink2 = Object.values(drinks.drinks);
+        if(drinks && drinksFilter.length){
+          const drink2 = Object.values(drinks);
+          
           let map = new Map()
           for(let value of drinksFilter){
               for(let dr of drink2){
@@ -80,9 +83,9 @@ export const selectFilterDrinks = createSelector(
           map.forEach(drink => array.push(drink))
           return array.sort((a,b) => (a.name > b.name ? 1 : -1));
         }
-        if(drinks.drinks){
-            let list = Object.keys(drinks.drinks).sort((a,b) => (drinks.drinks[a].name > drinks.drinks[b].name ? 1 : -1));
-            return list.map(number =>  drinks.drinks[number])
+        if(drinks){
+        let list = Object.keys(drinks).sort((a,b) => (drinks[a].name > drinks[b].name ? 1 : -1))
+            return list.map(number =>  drinks[number])
         }
     }
 )
