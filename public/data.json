@@ -55,9 +55,10 @@
                 "Whiskey": "5 cl",
                 "Citron": "3 cl",
                 "Sockerlag": "2 cl",
-                "Äggvita": "1 st"
+                "Äggvita": "1 st", 
+                "Angostura Bitters": "2 droppar"
              },
-             "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas"]
+             "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas", "Garnera med Angostura Bitter på toppen"]
         },
         {   "name": "Margarita",
             "img": "https://folkofolk.se/sites/default/files/2021-06/margarita_0.jpg",
@@ -395,7 +396,8 @@
                     "Salviasockerlag": "2 cl",
                     "Äggvita": "1 st"
                 },
-                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas "]
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas "],
+                "Syrup":["Recept Salviasockerlag. Blanda 2 dl sockerlag med 1 dl salvia, mixa tills slät, sila genom en finmaskig sil"]
         },
         {   "name": "Mexican Mule ",
                 "img": "https://fountainavenuekitchen.com/wp-content/uploads/2021/04/mexican-moscow-mule-hp.jpg",
