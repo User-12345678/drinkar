@@ -61,7 +61,7 @@
              "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt utan is", "Skaka ordentligt med en stor isbit", "Dubbelsila till ett glas", "Garnera med Angostura Bitter på toppen"]
         },
         {   "name": "Margarita",
-            "img": "https://folkofolk.se/sites/default/files/2021-06/margarita_0.jpg",
+            "img": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_165223/cf_259/margarita.jpg",
             "ingredients": {
                 "Tequila": "4 cl",
                 "Appelsinlikör": "2 cl", 
@@ -71,7 +71,7 @@
          "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med rimmad saltkant"]
         },
         {   "name": "Malibu Pineapple",
-            "img": "https://dolesunshine.com/content/dam/dolesunshine/recipes/1920x1080/Malibu%20and%20Pineapple_20181203_Dole_Audrey_Ma_2377.jpg.thumb.1280.1280.png",
+            "img": "https://dolesunshine.com/us/wp-content/uploads/sites/2/2022/03/Malibu-and-Pineapple_20181203_Dole_Audrey_Ma_2377-1440x810.jpg",
             "ingredients": {
                 "Malibu": "5 cl",
                 "Annanasjuice": "10 cl", 
@@ -101,7 +101,7 @@
             "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas"]
         },
         {   "name": "Mojito",
-            "img": "https://folkofolk.se/sites/default/files/2021-06/calvados-mojito_0.jpg",
+            "img": "https://nigab.se/wordpress/wp-content/uploads/2020/11/mojito_drink.jpg",
             "ingredients": {
                 "Ljus Rom": "5 cl",
                 "Lime": "3 cl",
@@ -123,7 +123,7 @@
             "Syrup":["Recept hallonsockerlag. Mixa 2dl sockerlag med 2dl hallon till en slät  puré, sila till en flaska."]
         },
         {   "name": "Pink 75",
-            "img": "https://folkofolk.se/sites/default/files/2021-09/pink-75_0.jpg",
+            "img": "https://res.cloudinary.com/anora/image/upload/t_FoF-HeroFullWidthImage-LG-LG,f_auto/folkofolk%2Fpink-75_0",
             "ingredients": {
                 "Gin": "3 cl",
                 "Citron": "1.5 cl",
@@ -134,7 +134,7 @@
             "Syrup":["Recept hallonsockerlag. Mixa 2dl sockerlag med 2dl hallon till en slät  puré, sila till en flaska."]
         },
         {   "name": "Gin Flip Raspberry",
-                "img": "https://folkofolk.se/sites/default/files/2021-09/herno-gin-flip-raspberry_0.jpg",
+                "img": "https://res.cloudinary.com/anora/image/upload/t_FoF-HeroFullWidthImage-LG-LG,f_auto/folkofolk%2Fherno-gin-flip-raspberry_0",
                 "ingredients": {
                     "Gin": "5 cl",
                     "Hallonsockerlag": "3 cl",
@@ -499,7 +499,7 @@
                 "description": ["Addera alla ingredienser förutom sprite till en shaker", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is", "Toppa med sprite"]
         },
         {   "name": "Penicillin",
-                "img": "https://folkofolk.se/sites/default/files/2021-02/penicillin.jpg",
+                "img": "https://res.cloudinary.com/anora/image/upload/t_FoF-HeroFullWidthImage-LG-LG,f_auto/folkofolk%2Fpenicillin",
                 "ingredients": {
                     "Whiskey": "5 cl",
                     "Citron": "3 cl",
