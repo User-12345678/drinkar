@@ -169,7 +169,7 @@
                     "Whiskey": "4 cl",
                     "Ljus Rom": "2 cl",
                     "Kokosmjölk": "6 cl",
-                    "Lime": "2 cl",
+                    "Lime": "1 cl",
                     "Sockerlag": "1 cl"  
                 },
                 "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Sila till ett glas med is"]
@@ -430,7 +430,7 @@
                 "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is & rimmad saltkant"]
         },
         {   "name": "Remedy",
-                "img": "https://folkofolk.se/sites/default/files/2019-07/remedy_bottle_0.png",
+                "img": "https://res.cloudinary.com/anora/image/upload/t_FoF-HeroFullWidthImage-LG-LG,f_auto/folkofolk%2Fremedy_bottle_0",
                 "ingredients": {
                     "Vodka": "3 cl",
                     "Rökig Whisky": "1 cl",
@@ -492,8 +492,8 @@
                 "ingredients": {
                     "Whiskey": "3 cl",
                     "Apelsinlikör": "2 cl",
-                    "Citron": "3 cl",
-                    "Sockerlag": "1 cl",
+                    "Citron": "2 cl",
+                    "Sockerlag": "2 cl",
                     "Sprite": "10 cl"
                 },
                 "description": ["Addera alla ingredienser förutom sprite till en shaker", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is", "Toppa med sprite"]
