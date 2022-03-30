@@ -559,6 +559,26 @@
                     "Torrt Rödvin": "3 cl"
                 },
                 "description": ["Addera alla ingredienser till en shaker förutom rödvinet", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is", "Toppa med rödvin"]
+        },
+        {   "name": "Bronx cocktail",
+                "img": "https://images.immediate.co.uk/production/volatile/sites/30/2021/03/The-Bronx_02603-ebbe095.jpg?quality=90&webp=true&resize=600,545",
+                "ingredients": {
+                    "Gin": "5 cl",
+                    "Sweet Vermouth": "2.5 cl",
+                    "Dry Vermouth": "2.5 cl",
+                    "Appelsinjuice": "2.5 cl"
+                },
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordenterligt med is", "Dubbelsila till ett glas utan is", "Toppa med apelsin zest"]
+        },
+        {   "name": "Vesper martini",
+                "img": "https://i.pinimg.com/originals/ca/af/59/caaf59f27220afe01c7139fd53de48fb.jpg",
+                "ingredients": {
+                    "Gin": "6 cl",
+                    "Vodka": "2 cl",
+                    "Dry Vermouth": "1 cl"
+                },
+                "description": ["Addera alla ingredienser till en shaker", "Skaka ordenterligt med is", "Dubbelsila till ett glas utan is", "Toppa med citron zest"]
         }
+    
     ]
 }
