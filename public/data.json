@@ -777,6 +777,37 @@
       ]
     },
     {
+      "name": "Bronx cocktail",
+      "img": "https://images.immediate.co.uk/production/volatile/sites/30/2021/03/The-Bronx_02603-ebbe095.jpg?quality=90&webp=true&resize=600,545",
+      "ingredients": {
+        "Gin": "5 cl",
+        "Sweet Vermouth": "2.5 cl",
+        "Dry Vermouth": "2.5 cl",
+        "Appelsinjuice": "2.5 cl"
+      },
+      "description": [
+        "Addera alla ingredienser till en shaker",
+        "Skaka ordenterligt med is",
+        "Dubbelsila till ett glas utan is",
+        "Toppa med apelsin zest"
+      ]
+    },
+    {
+      "name": "Vesper martini",
+      "img": "https://i.pinimg.com/originals/ca/af/59/caaf59f27220afe01c7139fd53de48fb.jpg",
+      "ingredients": {
+        "Gin": "6 cl",
+        "Vodka": "2 cl",
+        "Dry Vermouth": "1 cl"
+      },
+      "description": [
+        "Addera alla ingredienser till en shaker",
+        "Skaka ordenterligt med is",
+        "Dubbelsila till ett glas utan is",
+        "Toppa med citron zest"
+      ]
+    },
+    {
       "name": "Whiskey Passion",
       "img": "https://perfectpuree.com/wp-content/uploads/2019/11/Imbibe-Fall-2019-Whiskey-Passion-Bordel-Chicago-497.jpg",
       "ingredients": {
@@ -787,13 +818,60 @@
         "Angostura Bitters": "1 droppe"
       },
       "description": [
-        "Addera alla ingredienser till en shaker förutom rödvinet",
-        "Skaka ordenterligt med is",
-        "Dubbelsila till ett glas med is",
-        "Toppa med rödvin"
+        "Addera alla ingredienser till en shaker",
+        "Skaka ordenterligt utan is",
+        "Skaka ordentligt med en stor isbit",
+        "Dubbelsila till ett glas med is"
       ],
       "Syrup": [
         "Recept Passionsfruktsirap. Mixa 1 dl vatten med 1 dl socker och 4 st passionsfrukter, värm upp vatten och socker tills sockert är upplöst. Ta bort från värme och addera passoinsfrukterna, låt sitta i 2h och sila sedan upp."
+      ]
+    },
+    {
+      "name": "Strawberry Basil Margarita",
+      "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F44%2F2021%2F02%2F12%2Ffresh-strawberry-margarita-2000.jpg&q=60",
+      "ingredients": {
+        "Tequila": "4 cl",
+        "Apelsinlikör": "1.5 cl",
+        "Lime": "1.5 cl",
+        "Sockerlag": "1.5 cl",
+        "Jordgubbar": "3 st",
+        "Basilikablad": "4-5 st"
+      },
+      "description": [
+        "Addera Jordgubbar & Basilkablad till en shaker och muddra tills jordgubbarna är en sirap",
+        "Addera resterande ingredienser till shakern",
+        "Skaka ordenterligt med is",
+        "Dubbelsila till ett glas med is & rimmad saltkant"
+      ]
+    },
+    {
+      "name": "Jungle Cat",
+      "img": "https://cdn.shopify.com/s/files/1/1216/2612/files/Jungle_Cat_480x480.jpg?v=1604802351",
+      "ingredients": {
+        "Gin": "4 cl",
+        "Campari": "2 cl",
+        "Annanasjuice": "4 cl",
+        "Lime": "1.5 cl",
+        "Sockerlag": "1 cl"
+      },
+      "description": ["Addera alla ingredienser till en shaker", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is"]
+    },
+    {
+      "name": "Blood Orange Sour",
+      "img": "https://emilylaurae.com/wp-content/uploads/2022/02/blood-orange-clementine-sour-12-500x375.jpg",
+      "ingredients": {
+        "Gin": "6 cl",
+        "Blodapelsin Juice": "4 cl",
+        "Citron": "2 cl",
+        "Sockerlag": "2 cl",
+        "Äggvita": "1 st"
+      },
+      "description": [
+        "Addera alla ingredienser till en shaker",
+        "Skaka ordenterligt utan is",
+        "Skaka ordentligt med en stor isbit",
+        "Dubbelsila till ett glas utan is"
       ]
     }
   ]
