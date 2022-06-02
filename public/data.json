@@ -25,7 +25,11 @@
         "Sockerlag": "2 cl",
         "Basilika": "6-8 st"
       },
-      "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Häll upp i ett glas med is"]
+      "description": [
+        "Addera alla ingredienser till en shaker",
+        "Skaka ordentligt med is",
+        "Häll upp i ett glas med is"
+      ]
     },
     {
       "name": "Elder Gin Cocktail",
@@ -88,7 +92,11 @@
         "Lime": "2 cl",
         "Sockerlag": "1 cl"
       },
-      "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med rimmad saltkant"]
+      "description": [
+        "Addera alla ingredienser till en shaker",
+        "Skaka ordentligt med is",
+        "Dubbelsila till ett glas med rimmad saltkant"
+      ]
     },
     {
       "name": "Malibu Pineapple",
@@ -99,7 +107,11 @@
         "Lime": "2 cl",
         "Sockerlag": "1 cl"
       },
-      "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is"]
+      "description": [
+        "Addera alla ingredienser till en shaker",
+        "Skaka ordentligt med is",
+        "Dubbelsila till ett glas med is"
+      ]
     },
     {
       "name": "Pornstar Martini",
@@ -239,7 +251,12 @@
         "Sockerlag": "2 cl",
         "Jordgubbar": "3 st"
       },
-      "description": ["Addera alla ingredienser till en mixer", "Tillsätt 10 isbitar", "Mixa tills krämig konsistens", "Häll upp i glas"]
+      "description": [
+        "Addera alla ingredienser till en mixer",
+        "Tillsätt 10 isbitar",
+        "Mixa tills krämig konsistens",
+        "Häll upp i glas"
+      ]
     },
     {
       "name": "Dark n Stormy",
@@ -477,7 +494,11 @@
         "Lime": "3 cl",
         "Ingefärssockerlag": "2 cl"
       },
-      "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is"],
+      "description": [
+        "Addera alla ingredienser till en shaker",
+        "Skaka ordentligt med is",
+        "Dubbelsila till ett glas med is"
+      ],
       "Syrup": ["Recept ingefärssockerlag. Blanda 2dl sockerlag med 0.5dl ingefärsjuice"]
     },
     {
@@ -540,7 +561,9 @@
         "Skaka ordentligt med en stor isbit",
         "Dubbelsila till ett glas "
       ],
-      "Syrup": ["Recept Salviasockerlag. Blanda 2 dl sockerlag med 1 dl salvia, mixa tills slät, sila genom en finmaskig sil"]
+      "Syrup": [
+        "Recept Salviasockerlag. Blanda 2 dl sockerlag med 1 dl salvia, mixa tills slät, sila genom en finmaskig sil"
+      ]
     },
     {
       "name": "Mexican Mule ",
@@ -594,7 +617,11 @@
         "Honungssirap": "2 cl",
         "Ingefära": "1msk"
       },
-      "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is"],
+      "description": [
+        "Addera alla ingredienser till en shaker",
+        "Skaka ordentligt med is",
+        "Dubbelsila till ett glas med is"
+      ],
       "Syrup": ["Recept Honungssirap. Mixa 1 del vatten med 2 delar honung, värm upp och mixa tills honungen lösts upp"]
     },
     {
@@ -624,7 +651,11 @@
         "Grapefruitjuice": "4 cl",
         "Angostura bitters": "2 droppar"
       },
-      "description": ["Addera alla ingredienser till en shaker", "Skaka ordentligt med is", "Dubbelsila till ett glas med is"]
+      "description": [
+        "Addera alla ingredienser till en shaker",
+        "Skaka ordentligt med is",
+        "Dubbelsila till ett glas med is"
+      ]
     },
     {
       "name": "Ruby",
@@ -757,7 +788,11 @@
         "Citron": "3 cl",
         "Honungssirap": "2 cl"
       },
-      "description": ["Addera alla ingredienser till en shaker", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is"],
+      "description": [
+        "Addera alla ingredienser till en shaker",
+        "Skaka ordenterligt med is",
+        "Dubbelsila till ett glas med is"
+      ],
       "Syrup": ["Recept Honungssirap. Mixa 1 del vatten med 2 delar honung, värm upp och mixa tills honungen lösts upp"]
     },
     {
@@ -855,7 +890,11 @@
         "Lime": "1.5 cl",
         "Sockerlag": "1 cl"
       },
-      "description": ["Addera alla ingredienser till en shaker", "Skaka ordenterligt med is", "Dubbelsila till ett glas med is"]
+      "description": [
+        "Addera alla ingredienser till en shaker",
+        "Skaka ordenterligt med is",
+        "Dubbelsila till ett glas med is"
+      ]
     },
     {
       "name": "Blood Orange Sour",
@@ -872,6 +911,23 @@
         "Skaka ordenterligt utan is",
         "Skaka ordentligt med en stor isbit",
         "Dubbelsila till ett glas utan is"
+      ]
+    },
+    {
+      "name": "NoMayo",
+      "img": "https://makemeacocktail.com/images/cocktails/8029/nomayo_1398x557.jpg",
+      "ingredients": {
+        "Gin": "3.5 cl",
+        "Fläderlikör": "3 cl",
+        "Campari": "0.75 cl",
+        "Citron": "2 cl",
+        "Champange": "10 cl"
+      },
+      "description": [
+        "Addera alla ingredienser förutom champannge till en shaker",
+        "Skaka ordenterligt med is",
+        "Dubbelsila till ett glas utan is",
+        "Toppa med champange"
       ]
     }
   ]
