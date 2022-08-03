@@ -72,7 +72,7 @@
         "Whiskey": "5 cl",
         "Citron": "3 cl",
         "Sockerlag": "2 cl",
-        "Äggvita": "1 st",
+        "Äggvita": "2 cl",
         "Angostura Bitters": "2 droppar"
       },
       "description": [
@@ -148,13 +148,14 @@
         "Ljus Rom": "5 cl",
         "Lime": "3 cl",
         "Sockerlag": "2 cl",
-        "Mynta": "10st ",
+        "Mynta": "12st ",
         "Sodavatten": "5 cl"
       },
       "description": [
-        "Addera alla ingredienser förutom sodavatten till en shaker",
-        "Skaka ordentligt med is",
-        "Dubbelsila till ett glas med is",
+        "Addera alla Mynta, Lime & Sockerlag till ett glas",
+        "Muddra försiktigt",
+        "Addera rom och krossad is",
+        "Rör om med en sked",
         "Toppa med sodavatten"
       ]
     },
@@ -165,7 +166,7 @@
         "Gin": "5 cl",
         "Citron": "3 cl",
         "Hallonsockerlag": "2 cl",
-        "Äggvita": "1st "
+        "Äggvita": "2 cl "
       },
       "description": [
         "Addera alla ingredienser till en shaker",
@@ -411,7 +412,7 @@
         "Amaretto": "5 cl",
         "Lime": "3 cl",
         "Sockerlag": "2 cl",
-        "Äggvita": "1 st"
+        "Äggvita": "2 cl"
       },
       "description": [
         "Addera alla ingredienser till en shaker",
@@ -553,7 +554,7 @@
         "Whiskey": "5 cl",
         "Citron": "3 cl",
         "Salviasockerlag": "2 cl",
-        "Äggvita": "1 st"
+        "Äggvita": "2 cl"
       },
       "description": [
         "Addera alla ingredienser till en shaker",
@@ -666,7 +667,7 @@
         "Aperol": "1 cl",
         "Citron": "2 cl",
         "Röd Grapefruitjuce": "2 cl",
-        "Äggvita": "1 st"
+        "Äggvita": "2 cl"
       },
       "description": [
         "Addera alla ingredienser till en shaker",
@@ -849,7 +850,7 @@
         "Whiskey": "6 cl",
         "Lime": "3 cl",
         "Passionsfruktsirap": "2 cl",
-        "Äggvita": "1 st",
+        "Äggvita": "2 cl",
         "Angostura Bitters": "1 droppe"
       },
       "description": [
@@ -904,7 +905,7 @@
         "Blodapelsin Juice": "4 cl",
         "Citron": "2 cl",
         "Sockerlag": "2 cl",
-        "Äggvita": "1 st"
+        "Äggvita": "2 cl"
       },
       "description": [
         "Addera alla ingredienser till en shaker",
@@ -929,6 +930,245 @@
         "Dubbelsila till ett glas utan is",
         "Toppa med champange"
       ]
+    },
+    {
+      "name": "Dorchester",
+      "img": "https://www.liquor.com/thmb/eP7TH3gUVJnYth7bP-BdCxG0w3w=/720x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dorchester-720x720-primary-5c79f310849748bc83d4602620f68415.jpg",
+      "ingredients": {
+        "Gin": "4.5 cl",
+        "Luxardo maraschino liqueur": "1.5 cl",
+        "Grapefrukt juice": "1.5 cl",
+        "Lime": "2.25 cl",
+        "Sockerlag": "1.5 cl"
+      },
+      "description": [
+        "Addera alla ingredienser till en shaker",
+        "Skaka ordenterligt med is",
+        "Dubbelsila till ett glas utan is"
+      ]
+    },
+    {
+      "name": "Veracruz Pamola",
+      "img": "https://cookingwithcurls.com/wp-content/uploads/2021/03/Mexican-Paloma-Cocktail-recipe.-cookingwithcurls.com_-360x360.jpg",
+      "ingredients": {
+        "Teqiula": "4.5 cl",
+        "Fläderlikör": "1.5 cl",
+        "Grapefrukt juice": "4.5 cl",
+        "Lime": "2.25 cl",
+        "Agavesirap": "1.5 cl",
+        "Sodavatten": "5 cl"
+      },
+      "description": [
+        "Addera alla ingredienser till en shaker",
+        "Skaka ordenterligt med is",
+        "Dubbelsila till ett glas med is",
+        "Toppa med sodavatten"
+      ]
+    },
+    {
+      "name": "Old Friend",
+      "img": "https://cdn.diffords.com/contrib/stock-images/2020/11/5faec185a1f8a.jpg",
+      "ingredients": {
+        "Gin": "4.5 cl",
+        "Fläderlikör": "1.5 cl",
+        "Grapefrukt juice": "2.25 cl",
+        "Campari": "1.5 cl"
+      },
+      "description": [
+        "Addera alla ingredienser till en shaker",
+        "Skaka ordenterligt med is",
+        "Dubbelsila till ett glas utan is"
+      ]
+    },
+    {
+      "name": "Rosemary Greyhound",
+      "img": "https://www.afarmgirlsdabbles.com/wp-content/uploads/2017/01/rosemary-greyhound_afarmgirlsdabbles_7239s.jpg",
+      "ingredients": {
+        "Gin": "5 cl",
+        "Grapefruktjuice": "6 cl",
+        "Grapefruit Bitters": "2 droppar",
+        "Rosmarin sockerlag": "1.5 cl"
+      },
+      "description": [
+        "Addera alla ingredienser till en shaker",
+        "Skaka ordenterligt med is",
+        "Dubbelsila till ett glas utan is"
+      ],
+      "Syrup": [
+        "Recept Rosmarin sockerlag. Mixa 1 dl vatten med 1 dl socker. Häll upp i en behållare med några kvistar rosmarin och låt stå i minst 1h"
+      ]
+    },
+    {
+      "name": "Mojito Royal",
+      "img": "https://cdn.diffords.com/contrib/encyclopedia/2021/07/60e85dc93b8ce.jpg",
+      "ingredients": {
+        "Ljus Lagrad Rom ": "4 cl",
+        "Lime": "3 cl",
+        "Sockerlag": "3 cl",
+        "Mynta": "10 blad",
+        "Champagne": "4 cl"
+      },
+      "description": [
+        "Addera alla Mynta, Lime & Sockerlag till ett glas",
+        "Muddra försiktigt",
+        "Addera rom och krossad is",
+        "Rör om med en sked",
+        "Toppa med Champange"
+      ]
+    },
+    {
+      "name": "Elderflower & Pink Grapefruit Fizz",
+      "img": "https://gingerwithspice.com/wp-content/uploads/2021/01/Grapefruit-Mimosa-10-720x540.jpg",
+      "ingredients": {
+        "Gin": "4 cl",
+        "Grapefruitjuice": "6 cl",
+        "Fläderlikör": "2.5 cl",
+        "Sodavatten": "3 cl"
+      },
+      "description": [
+        "Addera alla ingredienser förutom sodavatten till en shaker",
+        "Skaka ordenterligt med is",
+        "Dubbelsila till ett glas utan is",
+        "Toppa med sodavatten"
+      ]
+    },
+    {
+      "name": "Byzantine",
+      "img": "https://www.losvinos.com.ar/wp-content/uploads/2020/03/Byzantine.jpeg?ezimgfmt=ng:webp/ngcb13",
+      "ingredients": {
+        "Gin": "5 cl",
+        "Lime": "3 cl",
+        "Annanasjuice": "2 cl",
+        "Passionsfruktsirap": "2 cl",
+        "Tonicvatten": "3 cl"
+      },
+      "description": [
+        "Addera alla ingredienser förutom tonic till en shaker",
+        "Skaka ordenterligt med is",
+        "Dubbelsila till ett glas med is",
+        "Toppa med tonic"
+      ],
+      "Syrup": [
+        "Recept Passionsfruktsirap. Mixa 1 dl vatten med 1 dl socker och 4 st passionsfrukter, värm upp vatten och socker tills sockert är upplöst. Ta bort från värme och addera passoinsfrukterna, låt sitta i 2h och sila sedan upp."
+      ]
+    },
+    {
+      "name": "Paris Is Burning",
+      "img": "https://d34nm4jmyicdxh.cloudfront.net/eyJidWNrZXQiOiJjaHJpc3N5LXR1eGVkby1ubzIiLCJrZXkiOiJwYXJpcy1pcy1idXJuaW5nLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "ingredients": {
+        "Gin": "3 cl",
+        "Mezcal": "3 cl",
+        "Fläderlikör": "1.5 cl",
+        "Annanasjuice": "3 cl",
+        "Citron": "3 cl",
+        "Demerara Syrup": "2.25 cl",
+        "Angostura Bitters": "2 droppar"
+      },
+      "description": [
+        "Addera alla ingredienser till en shaker",
+        "Skaka ordenterligt med is",
+        "Dubbelsila till ett glas med is",
+        "Toppa med Angostura Bitters"
+      ],
+      "Syrup": ["Recept Demerara Syrup: Addera 1 dl vatten med 1 dl farinsocker och blanda ihopp över värmme"]
+    },
+    {
+      "name": "Aviation variation",
+      "img": "https://media1.popsugar-assets.com/files/thumbor/4ivilMU3vP4vKgmj9HSpPnauxyA/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2014/12/28/114/n/1922195/3b86661c53027011_83d97e5d9d6e68ee_Aviation-Cocktail.jpg",
+      "ingredients": {
+        "Gin": "3 cl",
+        "Luxardo maraschino liqueur": "1 cl",
+        "Citron": "2 cl",
+        "Sockerlag": "0.5 cl",
+        "Maraschinokörsbär": "1 st"
+      },
+      "description": [
+        "Addera alla ingredienser till en shaker",
+        "Skaka ordenterligt med is",
+        "Dubbelsila till ett glas utan is",
+        "Toppa med Maraschinokörsbärs"
+      ]
+    },
+    {
+      "name": "Aviation variation",
+      "img": "https://mixology.eu/wp-content/uploads/2020/04/Naked-and-famous-5916.jpg",
+      "ingredients": {
+        "Mezcal": "2 cl",
+        "Aperol": "2 cl",
+        "Gul Chartreuse": "2 cl",
+        "Lime": "2 cl"
+      },
+      "description": [
+        "Addera alla ingredienser till en shaker",
+        "Skaka ordenterligt med is",
+        "Dubbelsila till ett glas utan is"
+      ]
+    },
+    {
+      "name": "White Lagy",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL2VDUHbyBwgmugTuvXuuS-VVzWKi_rLoFQw&usqp=CAU",
+      "ingredients": {
+        "Gin": "5 cl",
+        "Apelsinlikör": "2 cl",
+        "Lime": "2 cl",
+        "Sockerlag": "1 cl",
+        "Äggvita": "1 cl"
+      },
+      "description": [
+        "Addera alla ingredienser till en shaker",
+        "Skaka ordenterligt utan is",
+        "Skaka ordenterligt med is",
+        "Dubbelsila till ett glas utan is"
+      ]
+    },
+    {
+      "name": "Hey Mambo",
+      "img": "https://stevethebartender.com.au/ezoimgfmt/m8g5e5y2.stackpathcdn.com/wp-content/uploads/2022/03/hey-mambo-cocktail.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1",
+      "ingredients": {
+        "Aperol": "3 cl",
+        "Teqiula": "1.5 cl",
+        "Mezcal": "1.5 cl",
+        "Annanasjuice": "4.5 cl",
+        "Kokosgrädde": "4.5 cl",
+        "Lime": "1.5 cl"
+      },
+      "description": [
+        "Addera alla ingredienser till en blender",
+        "Blenda snabbt med LITE is",
+        "Häll upp i ett glas med is"
+      ]
+    },
+    {
+      "name": "Midnight Stinger",
+      "img": "https://stevethebartender.com.au/ezoimgfmt/m8g5e5y2.stackpathcdn.com/wp-content/uploads/2022/03/midnight-stinger-cocktail.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1",
+      "ingredients": {
+        "Whiskey": "3 cl",
+        "Fernet Branca": "3 cl",
+        "Citron": "2.25 cl",
+        "Sockerlag": "2.25 cl"
+      },
+      "description": [
+        "Addera alla ingredienser till en shaker",
+        "Skaka ordenterligt med is",
+        "Dubbelsila till ett glas med is"
+      ]
+    },
+    {
+      "name": "Oaxacanite",
+      "img": "https://live.staticflickr.com/65535/49591812268_aa4b2886c2_b.jpg",
+      "ingredients": {
+        "Mezcal": "3 cl",
+        "Teqiula": "3 cl",
+        "Honungssirap": "2.25 cl",
+        "Lime": "2.25 cl",
+        "Angostura Bitters": "2 droppar"
+      },
+      "description": [
+        "Addera alla ingredienser till en shaker",
+        "Skaka ordenterligt med is",
+        "Dubbelsila till ett glas med is"
+      ],
+      "Syrup": ["Recept Honungssirap. Mixa 1 del vatten med 3 delar honung, värm upp och mixa tills honungen lösts upp"]
     }
   ]
 }
